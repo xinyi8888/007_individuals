@@ -1,0 +1,383 @@
+﻿objectid,name,unique_code,pollutant_metric,maximum_value,unit,compliance_status,compliance_metric,globalid,shape_Length,shape_Area
+1,Adur,E07000223,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A7A7B99D-9CCC-4E88-8233-F42499B06EF9},60515.7048534191,42065495.8655339
+2,Allerdale,E07000026,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{557A9706-3297-4AF2-863D-05D9F00DDB0B},326945.356862588,1258291719.61533
+3,Amber Valley,E07000032,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4AED6B11-F6ED-489A-9CC7-052339D7DE3A},109036.520389866,265437867.659006
+4,Arun,E07000224,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4525C5F3-994D-42DD-BAB0-F79251590693},156498.064172033,220991201.464093
+5,Ashfield,E07000170,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F914278E-16EB-4B75-83FF-6FFA739DF387},69174.8494196409,109557941.106055
+6,Ashford,E07000105,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{351058BF-3B5A-41EF-91E1-4BF97A69266A},149446.491111581,580617312.655573
+7,Aylesbury Vale,E07000004,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B1EC21DD-59DF-4635-A14F-91CB7BE8D564},243091.827325023,902753224.901714
+8,Babergh,E07000200,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{38ED9F41-CA59-4152-90B6-E1937B954A12},210447.822242862,595116563.756272
+9,Barnsley,E08000016,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DA5C3350-E7D7-472D-97C4-50B6C4B8789A},126421.141800593,329077594.566186
+10,Barrow-in-Furness,E07000027,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{89BC63EF-C2D5-46E9-9320-F7B13BAA7D9E},146480.186634252,77897001.8641374
+11,Basildon,E07000066,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{51FF7787-959E-4ACA-A46A-712119345158},85631.2104981443,110001023.654764
+12,Basingstoke and Deane,E07000084,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{67E76B11-4ACE-41E8-A04A-506C69EC0FDF},143437.384228917,633817172.002662
+13,Bassetlaw,E07000171,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{212B4CDB-E357-4F19-92AC-39A9BDA96098},159734.777561217,637803646.209099
+14,Bath and North East Somerset,E06000022,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{0C34A345-981B-4308-B8AE-E95AF8059F23},141684.814205707,351123213.756385
+15,Bedford,E06000055,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6A052DBC-A4CD-40C3-8442-C0127D0F22EE},131721.268581354,476408299.162407
+16,Birmingham,E08000025,Nitrogen Dioxide annual mean Limit Value 2020,52,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{A3D8C8DC-05E8-4313-9CBC-6F36EBCD9589},106260.720206501,267791059.937127
+17,Blaby,E07000129,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{94C56115-A95B-4C03-8ADC-E1E249DA738A},100819.96689132,130468676.864844
+18,Blackburn with Darwen,E06000008,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7853A15C-EAC0-4FBA-B3E9-6CF3512C6C62},65284.9709825299,137022079.723958
+19,Blackpool,E06000009,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DFA82F5B-73B2-4D82-9833-518DE8EB8640},34483.4874941581,34870886.4556478
+20,Bolsover,E07000033,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{24AEF320-78F0-4822-B394-A9A8087347C4},96239.2025655061,160334649.782959
+21,Bolton,E08000001,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A2785C45-7981-4D38-ABFF-86D056283471},82647.1577312723,139792042.62735
+22,Spelthorne,E07000213,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{032C9020-DA4C-44D3-A38D-D8DF531E709D},44134.5375970837,51161362.5433989
+23,Boston,E07000136,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{62BAEC31-0EC9-4C72-84F5-60AA486BAD76},156197.44730287,364889918.615237
+24,Bracknell Forest,E06000036,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6F25C4D4-039F-415F-9660-8B38C82351C0},62508.0775037021,109384210.265679
+25,Bradford,E08000032,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BE82B7AC-DA05-46DC-B8A6-F3DA1A09771B},135920.613224069,366419741.977217
+26,Braintree,E07000067,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E8C850B0-A3B2-43D3-BC78-8F60F6F150DD},168686.435910163,611707973.504294
+27,Breckland,E07000143,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DAB49FD0-467D-49F3-A320-2CF778CA0125},239527.75362879,1305116639.16987
+28,Brentwood,E07000068,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{50E91675-1CB7-4B70-8D3D-9CF938CA7E15},72339.4999846342,153124048.304794
+29,Brighton and Hove,E06000043,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{212BFDB3-CF2F-4936-B7A9-48545FB46DA7},59519.4569407267,82832958.7782717
+30,Bristol City of,E06000023,Nitrogen Dioxide annual mean Limit Value 2020,44,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{2281C658-08B4-4126-882A-A280A33CACBD},109722.849282358,109700128.696473
+31,Broadland,E07000144,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{AD6816FA-BADE-41B9-99F5-6EB1AA021FB3},219128.240393652,552060636.330038
+32,Bromsgrove,E07000234,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6FA81004-A9AE-434D-BAF6-9B7A5F0B27E7},113135.446682072,216968481.075697
+33,Broxbourne,E07000095,Nitrogen Dioxide annual mean Limit Value 2020,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D3776C89-4068-41A5-8B77-EDA19A28B202},39068.7457937671,51442303.5951213
+34,Broxtowe,E07000172,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1FCA154A-88ED-48AF-B3BD-709628740EE7},65999.8327992654,80098837.128832
+35,Burnley,E07000117,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3033592F-0E6A-4142-A5E7-78EBB6FE8D6F},57764.5705752294,110684000.240327
+36,Bury,E08000002,Nitrogen Dioxide annual mean Limit Value 2020,38,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B987E934-CC66-47D4-A027-C4FE9C7C7058},68541.7597922065,99460126.9023201
+37,Calderdale,E08000033,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1864653E-449D-44CF-8830-A8C8E5531A88},107687.458147597,363960989.528606
+38,Cambridge,E07000008,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A8A67DF6-A11B-4D8D-86FE-14BC42780BA1},37170.4431684185,40698794.9341954
+39,Cannock Chase,E07000192,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{043D64CC-6327-4117-B533-20B5CFD8CDF0},50127.6044538487,78882570.4932335
+40,Canterbury,E07000106,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2B0787E9-B321-4145-AFB4-5C050312B2E2},134481.878863405,308752567.217783
+41,Carlisle,E07000028,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E1688DA4-DE81-4CFD-A94B-A68C4DC61473},278415.522865306,1038300028.98441
+42,Castle Point,E07000069,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{181F7A3E-3669-4049-9D4A-A42BE282C9DF},163452.231415357,44673525.2910833
+43,Charnwood,E07000130,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{20CA01AE-77C5-49A6-A4AE-B8B116BE51A8},115474.39092268,279042271.327479
+44,Chelmsford,E07000070,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3CB1C4D0-294B-4037-89EE-AEA5BB721067},126395.550322855,342227520.457088
+45,Cheltenham,E07000078,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{36788091-891C-4447-BA84-8809F91FEF5E},38231.0639602267,46596069.217582
+46,Cherwell,E07000177,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A5479717-74C2-408C-A9A5-2B105C065646},225626.554294161,588741170.216276
+47,Chesterfield,E07000034,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{98E225B4-4417-4BF5-9BAA-24EC9E7DA9BE},52617.7672509432,66035290.6854306
+48,Chichester,E07000225,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E8914A72-41DC-4E8E-A655-A32DB7261C9E},297274.786304603,786194870.307895
+49,Chiltern,E07000005,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DEF6C9EB-AC50-4762-9316-45BD4FD5DD23},87262.6779132276,196348229.80578
+50,Chorley,E07000118,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C82C1D0E-14A8-4975-98FA-E045F1DAF615},114515.91905975,202762137.791735
+51,York,E06000014,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3D729487-1650-4217-BBBD-E35C44E55FB9},101957.593922078,271936983.74298
+52,Colchester,E07000071,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{AC6E3E11-49B5-4FA4-97CB-88483BC789A9},318168.31141223,332325214.702393
+53,Copeland,E07000029,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A16540DD-EF8D-422B-862C-2E85DA7BB0B1},252311.6869998,737631222.408507
+54,Corby,E07000150,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F561F186-DF2F-40CB-8179-086E8F1EF90C},66291.6315252928,80280903.1353249
+55,Cotswold,E07000079,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F4503639-CF60-4E3C-8AEC-E9B0266DB2E4},332445.324069324,1164524415.18048
+56,Coventry,E08000026,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{70D0A4A7-5570-45DE-8C4F-A53C6980F3D4},54057.3813145352,98639059.7934014
+57,Craven,E07000163,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BC8CAC01-8E67-4D1C-9A2E-35B1A79AFF75},199883.769775131,1178807442.49167
+58,Crawley,E07000226,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{60A3238C-7BA5-4003-9D11-4F77B27A9690},38799.7232795746,44971204.972705
+59,Dacorum,E07000096,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C598658C-F54E-44AA-92A9-DFED04EF5821},110103.830872474,212476397.682695
+60,Darlington,E06000005,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E932603B-BE65-4D9A-87F0-5C79D5DD27EA},107206.401677287,197475688.992375
+61,Dartford,E07000107,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{AE4792AC-2389-4658-9B0D-19872E7DED99},57309.4061272109,72725577.0930406
+62,Daventry,E07000151,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7295147C-43A8-4EEA-83FD-369EF7A55620},181982.944966609,665600468.851017
+63,Derby,E06000015,Nitrogen Dioxide annual mean Limit Value 2020,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2A15383B-14CF-4699-BB8A-2A0BBD16F225},50037.7355262197,78031124.2977334
+64,Derbyshire Dales,E07000035,Nitrogen Dioxide annual mean Limit Value 2020,13,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DE628B0C-7CBB-4FD3-A4AE-5759E0B5D986},245475.846641527,795318063.283345
+65,Doncaster,E08000017,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{ADA7280E-921C-43F1-994F-D9F8961486CD},171070.334828116,568022257.266172
+66,Dover,E07000108,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{61B434A5-2C2C-4F86-B246-697173186D77},148160.889608644,315337967.02553
+67,Dudley,E08000027,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5FD3AD9E-6806-4DE8-9B0E-9E6CBB8C897A},75382.32965079,97958242.9719
+68,East Cambridgeshire,E07000009,Nitrogen Dioxide annual mean Limit Value 2020,12,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B30922DE-5F50-4A0B-BC5E-AE3B018A15B3},234187.982641904,651286023.597182
+69,East Devon,E07000040,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{ECE1A9F7-1EB8-49D1-BC4D-284986CD91D1},219544.921202018,814227311.153461
+70,East Hampshire,E07000085,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{02D0CA5B-E4AD-4930-BFCF-AE5CDBD14420},144540.791479266,514432074.863371
+71,East Hertfordshire,E07000242,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1C38B6EA-ED7B-4EBB-9A45-48C576F8971F},135188.279171723,475669101.994583
+72,East Lindsey,E07000137,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6BDDCDB0-4D0B-4D9D-8F5A-A5B76EDC7AAE},373207.484381739,1766773253.8254
+73,East Northamptonshire,E07000152,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9A790C2B-6413-4FB8-AE0C-701BAB56BC25},163229.120046976,509787257.638368
+74,East Riding of Yorkshire,E06000011,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F77ED127-290B-4EF1-AC40-9BF1CFAF715F},504148.429232311,2404995299.25661
+75,East Staffordshire,E07000193,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1E75E765-E4FD-46A0-91E0-BD8DE2FC8698},183696.396809301,389987162.124037
+76,Eastbourne,E07000061,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FF89EE06-AF9C-4F94-8E7A-16881DB82D17},38032.2810407959,44161432.4837987
+77,Eastleigh,E07000086,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C6A61163-1891-4809-9FA6-799083390305},75889.8885924889,79678662.3917766
+78,Eden,E07000030,Nitrogen Dioxide annual mean Limit Value 2020,13,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F8960D1A-8E55-4F6B-97C1-B57890A96B16},268725.444007917,2156474495.37604
+79,Elmbridge,E07000207,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9D3421AB-C5DC-4674-AE05-927257E6C84B},52206.1263725069,96334275.3882592
+80,Epping Forest,E07000072,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{92C65571-EE20-4527-AC97-859A8155A6D0},123273.197785467,338984123.904901
+81,Epsom and Ewell,E07000208,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{01CD9E55-8C6B-4969-8F91-E585C096FDE0},28503.7008598138,34079152.9616364
+82,Erewash,E07000036,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3B1241DF-53A5-4E69-BF48-406433826F2A},73547.5600218709,109630046.234834
+83,Exeter,E07000041,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{05204307-FD14-42C4-BCD8-694A88D648DB},50238.5061138255,47033052.7920173
+84,Fareham,E07000087,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{79D5C5CD-B5A7-4E17-9E82-1DEE574ECAFB},66504.8594452672,74260060.1001562
+85,Fenland,E07000010,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{02F3BD76-1974-46D1-947E-5A23F3204469},187882.168085419,546450057.397399
+86,Forest of Dean,E07000080,Nitrogen Dioxide annual mean Limit Value 2020,11,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2BE5202C-28A4-4EFD-9EC5-EBBE3FD1E2C3},190005.278190059,525899257.744365
+87,Fylde,E07000119,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FA05F681-B45F-42D2-9DA3-072199F0B3D9},138118.575679066,165696809.26837
+88,Gateshead,E08000037,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5A8A2EBE-5CFE-4120-BA0C-3BEB7AAC97C6},90476.8263971058,142369113.651808
+89,Gedling,E07000173,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{785D255C-2B46-4FA6-9160-A9622A5EE656},69754.6737639722,119981505.017305
+90,Gloucester,E07000081,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{876BCFE8-1F7D-4640-AD37-5075FAF98B6B},33539.6843710176,40553089.274582
+91,Gosport,E07000088,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{341092D9-5FEC-48A7-8E8C-CF5C3F4E98C2},40199.0473902764,25373863.8126401
+92,Gravesham,E07000109,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{24C7E251-8F82-4DED-8246-847A8F8902A7},60516.799156089,98991345.0269165
+93,Great Yarmouth,E07000145,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5B964B8D-D8A2-4C12-BA0D-E91E8D0422B1},145970.743262389,174330776.387391
+94,Guildford,E07000209,Nitrogen Dioxide annual mean Limit Value 2020,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2214D427-20C8-4360-AF63-1480F827822E},128414.49636405,270931189.7463
+95,Halton,E06000006,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B51F3F1D-8232-481D-B19C-C5082175DB62},77771.1033589913,79084035.4381165
+96,Hambleton,E07000164,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{059CAF11-170D-436B-AED0-7D8B04DE5BF6},298519.898029624,1311228139.76122
+97,Harborough,E07000131,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{05F3AB23-F653-416B-B757-4F5DD9B955D7},185950.911968039,592692049.699271
+98,Harlow,E07000073,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5A399A88-8A0B-4521-9D7F-E3202024ECDB},28515.4568027146,30537916.2891688
+99,Harrogate,E07000165,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7C0396B0-2F53-4EC5-ACC6-849EC2D0F1A3},246964.624319697,1309127592.76051
+100,Hart,E07000089,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A951D6A6-DCA8-41B1-BCED-707E5BF2C72F},77847.8295539031,215265080.340954
+101,Hartlepool,E06000001,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A26A087E-128F-42BF-B0B8-721B665877C8},71011.9339493173,93712619.8175595
+102,Hastings,E07000062,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F874EABC-20B7-44D4-990B-2BE83D2B36FC},34102.1075516755,29796091.9965189
+103,Havant,E07000090,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{07F08A8B-70A1-44C0-961A-2FCE167C2B97},115626.17020584,55739600.0488405
+104,Herefordshire County of,E06000019,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EB06E223-B1B4-4B71-910B-0F0C9729A36C},349889.439797694,2179709442.25922
+105,Hertsmere,E07000098,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{47A56C0C-1A5A-4131-A013-7D9691F119AC},61228.163848612,101128162.742547
+106,High Peak,E07000037,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{884EB851-1EF2-4245-B9F6-8870649DEB66},159632.998758142,540253999.811558
+107,Hinckley and Bosworth,E07000132,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A3E0E157-E886-4602-B01F-B94D0A052ADA},111546.302486751,297351486.796789
+108,Horsham,E07000227,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C30763C6-EA9D-4EB7-AE69-423686DB2CC2},215760.176955472,530278363.738596
+109,Huntingdonshire,E07000011,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D32F8F59-9CC9-4247-BE21-1F974D75C392},223338.133370289,912455239.159139
+110,Hyndburn,E07000120,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C5D1A1B7-F7DF-4D22-BD57-894D4D8E5E30},42655.4911054249,72997474.3941501
+111,Ipswich,E07000202,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4DD13388-EE7E-46D8-AD1F-0FF3F673F968},45342.3418168469,39509794.6377266
+112,Isle of Wight,E06000046,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5341A036-E9EE-49E1-AF96-EA4F9DE2195B},210106.299410113,379614785.758663
+113,Kettering,E07000153,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C4356C95-E6F2-4569-BED0-ADE7AB80BCC3},100689.501131667,233489923.713026
+114,King's Lynn and West Norfolk,E07000146,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3BC4713C-ECD3-4D4A-9D05-F2DEFC4B3153},694956.727048648,1439480389.44158
+115,Kingston upon Hull City of,E06000010,Nitrogen Dioxide annual mean Limit Value 2020,35,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{AE918B56-D2B6-4C8A-8E40-5118C807C559},64681.1195108781,71583611.6877471
+116,Kirklees,E08000034,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{399B6711-4C93-49BF-AB82-C561F0D7D03C},125668.53136549,408551664.068336
+117,Knowsley,E08000011,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F3B82392-1EE7-446E-A25C-3CB5EA0FC142},68167.3691636953,86500060.7561386
+118,Lancaster,E07000121,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C4183253-3A48-49B5-9CBE-D6E989A5B327},345349.753588741,566935933.498085
+119,Leeds,E08000035,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B6F8399A-156B-49DC-BCA4-91D230AEA4D9},161521.909190699,551706537.38357
+120,Leicester,E06000016,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7EC25DDF-477E-4A1A-A893-E00B4EE764DA},51932.0033485036,73342074.19008
+121,Lewes,E07000063,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C4A83E85-CE05-4EE2-AA52-2E360CA97C9E},168359.913078747,292106798.641785
+122,Lichfield,E07000194,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DC8ED313-7FCD-4F39-AF2C-D90B10392C39},127468.406693591,331294334.024327
+123,Lincoln,E07000138,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E6AA9C5E-C719-48A4-8E0B-86CC628189A1},32969.8765973623,35690272.5729232
+124,Liverpool,E08000012,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{0AF64048-E3F6-4FE0-A5E0-CBF33D16DF13},62699.7511420456,111835572.266135
+125,Luton,E06000032,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E9946CD1-8E1A-424A-8356-425B79C4B7EC},34569.6531192547,43352491.64567
+126,Maidstone,E07000110,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{334AB3F2-4787-4725-8B96-42D87F9DE531},122980.730512034,393329520.923427
+127,Maldon,E07000074,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F940BC4C-8D94-41E3-846C-507F66557988},469757.895285973,357815660.310834
+128,Malvern Hills,E07000235,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8213FA80-1396-4424-86A0-B0620447D081},230605.757150617,577070981.90519
+129,Manchester,E08000003,Nitrogen Dioxide annual mean Limit Value 2020,45,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{25A44437-D240-4B10-AEB9-C5893DB727DB},86851.0901577424,115648208.622335
+130,Mansfield,E07000174,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{481944FA-7AF0-4BA2-8CFC-BD7D871F4D1B},51090.8571646592,76696898.5856727
+131,Medway,E06000035,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FCBC97FF-AED8-42D6-89E0-CB8DD3B67D6C},249509.74161654,193714281.102373
+132,Melton,E07000133,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DF0F7E54-2FD6-4BE5-AE71-CAED885BD0BA},140629.640964373,481380515.191377
+133,Mendip,E07000187,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{11848BF4-3E1E-41A5-9AB5-DE36D09174E6},198850.07740517,739435423.569124
+134,Mid Devon,E07000042,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{07D9E0AF-FC46-4F03-9D5B-5F147FE25ABD},246408.793542254,912897719.729189
+135,Mid Suffolk,E07000203,Nitrogen Dioxide annual mean Limit Value 2020,12,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E63FF622-1104-4718-B838-FB43E18322B6},191154.673181977,871070645.727273
+136,Mid Sussex,E07000228,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{544A8F85-D0DD-4B60-A6E4-60D441A69D0A},132912.37344589,334029222.418473
+137,Middlesbrough,E06000002,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4213B5AA-C25D-411F-BCE9-788CB9A3B536},44481.6912420956,53881564.2712312
+138,Milton Keynes,E06000042,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BBB46CC3-8FB1-4134-B7CC-DC4374C86ABC},102960.590212706,308626789.344666
+139,Mole Valley,E07000210,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{506C8EA5-1BA8-45BB-A32D-B2D467FB19F2},105403.178834247,258320953.453331
+140,New Forest,E07000091,Nitrogen Dioxide annual mean Limit Value 2020,37,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{11C1C3C7-F137-45CA-846E-9AC9B1DF06F9},332044.023252545,752175262.268098
+141,Newark and Sherwood,E07000175,Nitrogen Dioxide annual mean Limit Value 2020,12,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8C1AB5B8-23B9-4647-BDCE-23D717392BC4},187422.523890761,651340472.135509
+142,Newcastle upon Tyne,E08000021,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F27DD559-D867-4170-A35B-F81A5AB5707E},65210.1731267536,113461462.938742
+143,Newcastle-under-Lyme,E07000195,Nitrogen Dioxide annual mean Limit Value 2020,32,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D5DB57B9-6326-421D-8B29-39310DDE8B34},108259.286644032,210957319.413959
+144,North Devon,E07000043,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BA170FA4-105F-47BF-BBC0-40BCEFCC0180},308999.636073381,1085857679.30469
+145,North East Derbyshire,E07000038,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{0780180B-641D-41B1-BB6A-122EFC74C8BE},161243.879502128,275623524.396739
+146,North East Lincolnshire,E06000012,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F9915CA6-10BF-49B3-B0E3-5F1DFBF81D3E},93248.7198118338,192622956.447469
+147,North Hertfordshire,E07000099,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7C0DA717-9320-435A-9339-36057E987E9D},168316.826377509,375382315.818064
+148,North Kesteven,E07000139,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{169DF2BD-41F4-4F9B-842C-10B5F5D75737},181807.859532353,922471388.545782
+149,North Lincolnshire,E06000013,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F090DADF-4DF4-4307-A631-30CB8CFEFC59},244632.768773185,846499243.955763
+150,North Norfolk,E07000147,Nitrogen Dioxide annual mean Limit Value 2020,12,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F0ECA5C4-020E-4269-9DCE-7B6339A14432},600214.349706249,967553236.501038
+151,North Somerset,E06000024,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B56FAC16-F748-4281-9978-ACE7C9AB0330},154190.82747873,374605310.994406
+152,North Tyneside,E08000022,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{51C1266C-5781-4920-A385-9C419EA00D07},65337.7810807925,82313734.6892341
+153,North Warwickshire,E07000218,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{87440408-26FF-4DCC-B8BD-3FC3622EFDCC},113230.602690986,284261503.629142
+154,North West Leicestershire,E07000134,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8A11CD5F-206D-431A-AA4A-4865DA17D772},116453.203897831,279328072.743157
+155,Northampton,E07000154,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8D8E7FD3-5FB9-43C9-9A38-A408ED56979C},46341.5244265946,80771938.7916567
+156,Norwich,E07000148,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8125A90D-9DF4-4A51-898D-08513CC87803},52686.6307096359,39021966.3116075
+157,Nottingham,E06000018,Nitrogen Dioxide annual mean Limit Value 2020,39,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{423AFF58-683C-4DB5-834D-42ADEA6F3A1C},58724.236525949,74613560.4819929
+158,Nuneaton and Bedworth,E07000219,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5CA1270D-2B12-4279-8A0B-2517664BEE63},48148.7091081877,78950291.8162236
+159,Oadby and Wigston,E07000135,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F38A7BF4-72C3-4948-BEEC-F7FC06A8679D},31172.0311908166,23526096.6872208
+160,Oldham,E08000004,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E61A0BDC-362D-4B41-9FD4-370889ACC7A3},71165.7315377078,142344917.304019
+161,Oxford,E07000178,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2F8B8C98-A6A7-4010-9503-8860CD23BBE9},34999.6552171394,45602912.6828519
+162,Pendle,E07000122,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DF956C7E-F9BC-4308-9B73-66B8163EAD76},79243.8077162668,169380092.197238
+163,Peterborough,E06000031,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3602CA74-F0DC-43A4-B8F4-5B6E534E327E},112678.124727893,343378151.164244
+164,Plymouth,E06000026,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{04BDF006-9E61-4532-B0CF-DEC960591B79},92645.7718821412,79849713.7202877
+165,Portsmouth,E06000044,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{991AA76D-72F7-48C0-9BDC-84BA13B7E73F},61406.7196667782,40391212.0095036
+166,Preston,E07000123,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A6B749CF-8629-4895-ACDC-160D7B34FFD9},82804.9719060607,142284180.475832
+167,Reading,E06000038,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C897CA31-8A58-4580-8477-AF30735C628D},39330.820465747,40397991.8302793
+168,Redcar and Cleveland,E06000003,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{79C08B9A-1816-41B6-9269-8EB891ADF58F},96703.9897012835,245069508.916791
+169,Redditch,E07000236,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DB696BB8-F0FB-44F3-851C-B189E1505138},41301.8190573028,54250912.0736284
+170,Reigate and Banstead,E07000211,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B630D4F2-52AB-42FF-938C-D99BB72AF13A},79923.6802028828,129143925.112569
+171,Ribble Valley,E07000124,Nitrogen Dioxide annual mean Limit Value 2020,12,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7067720F-AF5B-4A5D-8A57-B286E4C8CDC6},150499.986105046,584471489.092841
+172,Richmondshire,E07000166,Nitrogen Dioxide annual mean Limit Value 2020,6,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C1318C1D-A427-4AD2-ABF2-6872D804D1FF},221710.071604986,1318707276.30363
+173,Rochdale,E08000005,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{68CAD1DE-80F5-43D0-876E-23B972EAA985},82713.1547276819,158128175.084325
+174,Rochford,E07000075,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{22291E67-83F5-4DFF-A930-CFF796B8B82D},232955.632621146,167274180.77227
+175,Rossendale,E07000125,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{90F170D5-CDC5-44DD-811B-8E8F23393F84},71149.8048128719,138040909.285535
+176,Rother,E07000064,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C179EEEB-E917-4A76-910C-4373F2EEB0A4},180531.964127629,511753820.136877
+177,Rotherham,E08000018,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{090920ED-B2AA-42B8-98E3-20BD0A97135F},106151.964211962,286534367.630962
+178,Rugby,E07000220,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3EE1A566-AE16-4F23-96EC-2C1E318A6C0E},115093.651913588,353557281.061628
+179,Runnymede,E07000212,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{0568466A-7FF3-420A-A3E5-5E3E5A574CD6},45677.4092821162,78040686.1842939
+180,Rushcliffe,E07000176,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{948D83E6-7AB3-4525-A2C1-3096D19495C3},123324.432735945,409231535.284401
+181,Rushmoor,E07000092,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7F73D057-4A17-43BE-B2B7-DD76C9CEDDA7},31893.0015033179,39045039.761089
+182,Rutland,E06000017,Nitrogen Dioxide annual mean Limit Value 2020,10,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{296AE136-BA28-4684-B357-99F99538ED33},125885.233889929,393748908.230215
+183,Ryedale,E07000167,Nitrogen Dioxide annual mean Limit Value 2020,7,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BB3D6BC9-17A1-4BFD-BFDA-66D565AE844F},249894.293084849,1506593776.95214
+184,Salford,E08000006,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CCEC8814-EDD5-4609-89C8-C117BD623C33},63268.7941178626,97197278.827636
+185,Sandwell,E08000028,Nitrogen Dioxide annual mean Limit Value 2020,32,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5FD5E01E-DFA1-4484-BF08-D5F4469BCACE},59211.0030546092,85558928.1595786
+186,Scarborough,E07000168,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{357D6B29-C141-4EC1-BB2B-44065030F6CE},241939.745649544,816188420.859728
+187,Sedgemoor,E07000188,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DA9B01E5-731B-46AE-AE97-EE6D4952580F},242134.287189561,564543642.859635
+188,Sefton,E08000014,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{01CE9170-165B-4258-98CB-A67DA937EBF6},130345.901601814,156578243.781292
+189,Selby,E07000169,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E93162E3-6954-4B7E-A4EE-8070C310FE11},264869.301894204,599310809.432597
+190,Sevenoaks,E07000111,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{323558D3-12C5-40E7-9747-55800F247F98},134435.514922542,370346872.0851
+191,Sheffield,E08000019,Nitrogen Dioxide annual mean Limit Value 2020,32,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FDB79FA1-E5EB-40C9-B1D6-024E42EB15AD},132837.299222908,367930014.570493
+192,Folkestone and Hythe,E07000112,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8FEFD4E3-1467-4473-B184-E8D42A1A984A},148969.584540585,356921037.577986
+193,Slough,E06000039,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{0FE93693-B3FE-4B20-92FB-325E56CED5D0},44181.3937034479,32542008.9559608
+194,Solihull,E08000029,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{348C4424-7E90-4D1F-9B67-8E959FCA6A3B},101031.448719484,178282115.90066
+195,South Bucks,E07000006,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A4668791-6725-411F-AC08-B8792FA0DBC0},85473.909915594,141275609.07862
+196,South Cambridgeshire,E07000012,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7D1AC592-671C-4AAF-A098-C75F753D7234},257078.232674111,901624810.46392
+197,South Derbyshire,E07000039,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{89DB51B1-5949-4C76-AFD6-3073C1B295CA},166693.264756748,338126970.261127
+198,South Gloucestershire,E06000025,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{44E7AAC0-35CA-4FC7-ABC9-22D3F046E9EB},141498.594060104,497035793.746443
+199,South Hams,E07000044,Nitrogen Dioxide annual mean Limit Value 2020,11,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{437DF924-F36D-4AAD-B240-AD8B91658118},478364.826113494,886510071.674955
+200,South Holland,E07000140,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A0E37B06-283E-4C90-AB6B-A67CFD8AFBBE},198138.771631415,750908591.673552
+201,South Kesteven,E07000141,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{34B58146-B17F-44AA-B195-E0CCF10F5671},209816.520260682,942585797.657035
+202,South Lakeland,E07000031,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1DD87EE7-3DB3-4020-AA03-3F772060E4A4},381861.979487717,1554923591.81439
+203,South Norfolk,E07000149,Nitrogen Dioxide annual mean Limit Value 2020,13,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8E09B22F-9177-43CF-AA3F-F25548BACA37},266872.66836317,907576579.766064
+204,South Northamptonshire,E07000155,Nitrogen Dioxide annual mean Limit Value 2020,11,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{94FDC88C-CF0B-45E6-90A2-8E5317948D70},225304.988901924,634023185.055839
+205,South Oxfordshire,E07000179,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DFE1776D-4562-40A7-9F43-8EB7AE35479C},205400.226544209,678521428.259037
+206,South Ribble,E07000126,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C5F8BCB7-04A8-4175-9EC0-87FDB72748EC},105352.200645432,113141865.944214
+207,South Somerset,E07000189,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{57800698-0FBE-4845-966F-8F74C45AFAC1},241317.051224869,959040237.320222
+208,South Staffordshire,E07000196,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{64155236-EFD9-4422-BB91-C099B391DB2D},184894.339545134,407322253.357068
+209,South Tyneside,E08000023,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{08B1C51A-B461-4D79-8BB4-98DFA3F43362},51370.4961740242,64428423.6794226
+210,Southampton,E06000045,Nitrogen Dioxide annual mean Limit Value 2020,39,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C75382D6-7CD1-42BD-BA74-90B3434985D9},61544.0619572362,49880646.3648927
+211,Southend-on-Sea,E06000033,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F4830AAD-4D7D-4E30-81ED-BD18CD0933AD},57783.269057816,41673935.6083753
+212,St Albans,E07000240,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D7D0DE3E-5A6C-43F6-8807-B6A521670B5D},72946.3415852749,161205874.059609
+213,St. Helens,E08000013,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FEB6B9D7-D07F-41AE-BB65-79601C61540D},76387.0358430372,136358792.987379
+214,Stafford,E07000197,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{084D9774-D55E-4BA7-B4A4-B37DAD404467},159078.806627588,598172233.422377
+215,Staffordshire Moorlands,E07000198,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{31989DD0-EEEF-4D02-9325-C8A88589A921},152448.185289633,575849820.802262
+216,Stevenage,E07000243,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{535AE3B3-3619-481D-B0D7-499051C10BC6},28588.2613575799,25969241.2793979
+217,Stockport,E08000007,Nitrogen Dioxide annual mean Limit Value 2020,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D101ADF8-7AB2-495C-AC03-25DFA8BAFF4C},73638.7202371356,126040311.08168
+218,Stockton-on-Tees,E06000004,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6268AC48-FF93-4606-8C0C-6E4E7474499A},123408.985927677,204932953.781252
+219,Stoke-on-Trent,E06000021,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7C5BB67B-877C-4022-B854-1D40788E50BB},63974.629003771,93448483.3505366
+220,Stratford-on-Avon,E07000221,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CB3BE178-92D5-40B2-A473-4D8A23F87B67},261384.087125663,977869054.895253
+221,Stroud,E07000082,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{AAD0160E-6250-4CF8-952F-973299644109},172782.192867585,460541975.21288
+222,Sunderland,E08000024,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EF3AF563-34F4-4B32-8FD5-183AF1EE27F9},99737.4118043337,137441171.443858
+223,Surrey Heath,E07000214,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8C3CA921-2560-428A-875B-FA9085F6DBF8},53559.7241713486,95092959.1736068
+224,Swale,E07000113,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D1486C08-E542-4F46-8BE2-B80177788164},347838.12354343,373436671.264401
+225,Swindon,E06000030,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{84B77E39-9093-4181-8034-C2636D33958F},103014.940246214,230093374.741894
+226,Tameside,E08000008,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{30A8C7B6-3762-424E-A79D-2B8378BD5719},55989.0752712242,103154292.392485
+227,Tamworth,E07000199,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{63DB64B5-B47E-4640-9B9B-5B998F3A3A29},30730.0625358975,30850716.1908956
+228,Tandridge,E07000215,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1D440969-2E50-4D3C-8836-8458C02F8F7A},83136.9028111191,248194569.367405
+229,Teignbridge,E07000045,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3A8D40F3-D49B-4D46-BBF6-5FF897EA085C},191464.02785335,673770656.969213
+230,Telford and Wrekin,E06000020,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{91062C36-70C0-4E36-98DA-2F01BB9249B4},118780.033274165,290313545.188821
+231,Tendring,E07000076,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{35940343-08FC-4094-A7A6-9416AB794AA7},442501.365026217,336295380.413206
+232,Test Valley,E07000093,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{57BFC134-BCD7-412F-AFDD-DACAB249F432},190816.352551876,627595190.71841
+233,Tewkesbury,E07000083,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6F055DF7-BB2C-4585-9B37-2DDB49579041},204835.933707647,414414321.091512
+234,Thanet,E07000114,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{59AF1665-3617-4124-A646-DF8A06F80A1F},65350.7692378741,103609165.852632
+235,Three Rivers,E07000102,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B720F6F8-1080-46FB-8F74-8C6EAB0F07F7},74112.6323982508,88824172.1167548
+236,Thurrock,E06000034,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9255C04A-9A0E-420E-A324-30039F2D8B63},115992.466452315,163837048.646129
+237,Tonbridge and Malling,E07000115,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F8C13976-A6FC-4DA8-9C56-38FDE1FEE066},133211.401830683,240114268.776842
+238,Torbay,E06000027,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{36F8D644-B103-4D59-8944-7A3448C6DFE8},77911.4991108206,62886695.8942917
+239,Torridge,E07000046,Nitrogen Dioxide annual mean Limit Value 2020,12,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B14C24E7-12CB-4E84-B355-7F997C28062D},315627.907057768,985293648.562924
+240,Trafford,E08000009,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CF6267B1-E2C6-443E-9C78-3E812BA43F15},60712.7777675827,106044771.783645
+241,Tunbridge Wells,E07000116,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{70B23A99-9DB0-4C8A-9B1E-3C4CBD2F2529},150590.455017113,331328854.676823
+242,Uttlesford,E07000077,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CD8DE6D3-78AE-4278-9479-A54D8D568419},166507.865260072,641182922.735804
+243,Vale of White Horse,E07000180,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{08B45DB8-F2BE-4077-99F3-36732944458E},175977.202778777,578660264.122094
+244,Wakefield,E08000036,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BBC79DFC-CC8A-46E8-AC51-230B52656BC8},109447.356258915,338619733.164991
+245,Walsall,E08000030,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2C1FE29F-91C0-42DD-A1B1-FBE2DAAEAF9F},59401.1794285966,103973538.346297
+246,Warrington,E06000007,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{20A4779A-C84C-428F-A809-6E67D33DEA66},114690.861715145,180627983.826568
+247,Warwick,E07000222,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{66ACFA59-F787-447D-A669-F3C9CF2EA2EA},116717.479258951,282882321.016032
+248,Watford,E07000103,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D746BA01-D8B9-484B-BDD4-0B04FA4EA061},26392.3637917563,21430351.4040458
+249,Waverley,E07000216,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{879BC734-E749-4CBA-A2F2-1A461397EB5F},125436.056342797,345170236.682502
+250,Wealden,E07000065,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A86ADD6B-72D6-4B9B-BAAA-1253516BB8E1},225878.103797448,834948417.645897
+251,Wellingborough,E07000156,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DDFFEA6B-1C9F-44B6-BE7D-E16FC82A2AEC},69758.419463359,163036490.492432
+252,Welwyn Hatfield,E07000241,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6C25D357-5A03-4F81-81D1-9876C312566E},82392.0596450988,129536895.734239
+253,West Berkshire,E06000037,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{44909604-411C-475D-8B38-59B4858F9806},166802.031523965,704169402.351946
+254,West Devon,E07000047,Nitrogen Dioxide annual mean Limit Value 2020,11,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E19CC618-62CD-4FC5-ACB5-F0A09BE7DAA9},254068.377875136,1161107060.90436
+255,West Lancashire,E07000127,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CE929D17-34A9-4B65-B419-CECBD2C8D5B9},227324.791265288,346632973.13886
+256,West Lindsey,E07000142,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{39A8086F-504C-4F08-B340-16C8CC67D98F},249630.856354362,1155731959.77556
+257,West Oxfordshire,E07000181,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{04B1B28F-2835-484A-9572-BF0DBC530C3F},160247.897555111,714422027.138745
+258,Wigan,E08000010,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{61A24BB7-65C0-4D7D-A4E7-FBAA5A1F3C2B},88690.4959013719,188171013.039743
+259,Winchester,E07000094,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{76021F22-6E42-4A3C-BDE1-BA4A2649B598},172158.212213579,660970090.904626
+260,Windsor and Maidenhead,E06000040,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FEC9136D-BB42-4DC8-96DC-5EA294BF36CF},114829.420890264,198427175.066602
+261,Wirral,E08000015,Nitrogen Dioxide annual mean Limit Value 2020,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FBAB05E9-2C0F-4F6F-9789-70C818032EEB},133924.463118424,160922014.258454
+262,Woking,E07000217,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{727E6CA6-598E-4D91-8B66-2A0BA0F5EE58},54781.5015969547,63603603.8397676
+263,Wokingham,E06000041,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8FDDE598-26D9-4BD9-9C83-0ACE413EC3F8},86865.9015855573,178965481.003988
+264,Wolverhampton,E08000031,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7599ACA7-8F59-4179-9501-4FE4CDFA526B},56054.9143822834,69436711.8259897
+265,Worcester,E07000237,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{52991B50-BC40-4890-9408-95A394A0BB59},31263.0663437807,33278124.8695442
+266,Worthing,E07000229,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{60D1DBE9-0655-4B67-9256-13DA737ADF24},29462.139044102,32521007.7957513
+267,Wychavon,E07000238,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{55225CB6-5161-4F9A-8BC2-A0AB9E38D967},219520.151476975,663541973.671783
+268,Wycombe,E07000007,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{68AA67C9-1C3C-4C8D-AAF4-A17DE7AF8425},113202.002504236,324572080.488638
+269,Wyre,E07000128,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5C11156B-16BD-4CE8-A7A9-7F9ED4ECF9C8},212730.866956258,282164815.237443
+270,Wyre Forest,E07000239,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{708F896C-678B-43F4-9A99-F53375E1DE1B},100867.383930268,195403719.201685
+271,Barking and Dagenham,E09000002,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5422BD87-938D-4529-ADA9-75EE436B97BC},40848.9262109737,36099579.3537102
+272,Barnet,E09000003,Nitrogen Dioxide annual mean Limit Value 2020,40,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BD56D3AF-EFD8-4ADA-9D8A-5AB53B9C4837},50818.5640207425,86748323.8350299
+273,Bexley,E09000004,Nitrogen Dioxide annual mean Limit Value 2020,32,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BD8843C8-349A-4A52-8E2D-206B46D0E0F2},47929.7812543916,60569006.5897128
+274,Brent,E09000005,Nitrogen Dioxide annual mean Limit Value 2020,41,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{355294A6-7684-4E34-9FB6-81C2EE867151},38334.1080962157,43232647.4133637
+275,Bromley,E09000006,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{763E1295-2193-42C6-AB0D-EF9BB016CA2A},76164.2425683605,150134859.413452
+276,Camden,E09000007,Nitrogen Dioxide annual mean Limit Value 2020,43,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{884997D3-9E18-4A18-A5CA-E79EDF0A1A75},26150.8183816197,21789299.882839
+277,City of London,E09000001,Nitrogen Dioxide annual mean Limit Value 2020,42,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{C272CF02-876E-4D83-A3C4-F7F526F83883},9365.48215920575,2892405.36543164
+278,Croydon,E09000008,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{92D16627-EAD1-421B-B332-C85F415A3BEC},58703.9243700039,86494438.8832782
+279,Ealing,E09000009,Nitrogen Dioxide annual mean Limit Value 2020,40,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F62283B8-742B-4A1E-B7FE-D136F7DE2352},47439.0263083463,55544347.2179586
+280,Enfield,E09000010,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{985486BC-B359-4281-8CD1-A659315D7C0E},41064.6492881675,82200189.5489859
+281,Greenwich,E09000011,Nitrogen Dioxide annual mean Limit Value 2020,37,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F117347B-BA73-40F1-8F1C-FAF2A2A583C8},47659.9055393207,47312188.6114747
+282,Hackney,E09000012,Nitrogen Dioxide annual mean Limit Value 2020,39,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{34A4110D-F3BC-48FB-8183-A902118F8B5A},25382.815561641,19049030.352776
+283,Hammersmith and Fulham,E09000013,Nitrogen Dioxide annual mean Limit Value 2020,41,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{9E81DF11-698A-484E-AE62-8C25215938FF},23974.244573909,16403659.3246004
+284,Haringey,E09000014,Nitrogen Dioxide annual mean Limit Value 2020,35,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9A0A1AB9-2CB0-4E66-AB09-ACD2B6F0039E},29025.179094176,29598385.1571467
+285,Harrow,E09000015,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DE109777-8743-4CAA-8DE7-FFD2A681780D},33735.4607001492,50463306.788368
+286,Havering,E09000016,Nitrogen Dioxide annual mean Limit Value 2020,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2078EA03-CE9C-49B2-8D8A-9727C99337BD},63646.6874627787,112341114.400327
+287,Hillingdon,E09000017,Nitrogen Dioxide annual mean Limit Value 2020,32,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7161E209-48BF-492B-B729-3D58BDF8E952},63887.0147407308,115700538.569064
+288,Hounslow,E09000018,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{482FE75C-2938-41DD-A883-4C340E4F6D97},64476.4213511999,55970483.6746531
+289,Islington,E09000019,Nitrogen Dioxide annual mean Limit Value 2020,38,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{30FFF6D5-6CEF-4BE5-A115-71B9C6736812},20727.8573703064,14856651.4165616
+290,Kensington and Chelsea,E09000020,Nitrogen Dioxide annual mean Limit Value 2020,37,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{52CA22CA-2D19-4226-AABF-BF8CDD15DCD8},20976.5665887925,12125376.8076287
+291,Kingston upon Thames,E09000021,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{807EDA38-1B6B-49E5-8830-C5834583A7AE},37553.1452619196,37261179.919015
+292,Lambeth,E09000022,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C147A88E-B43F-4F19-BC27-FF41AE498858},34006.7011725025,26819774.5739752
+293,Lewisham,E09000023,Nitrogen Dioxide annual mean Limit Value 2020,37,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B6815B1E-5AC3-45DE-9F32-BE09CE3B64EC},41248.7993236033,35148181.048931
+294,Merton,E09000024,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CC967F0E-CA99-47AA-8C58-43DBCF5B356F},32349.0601365595,37624739.9363362
+295,Newham,E09000025,Nitrogen Dioxide annual mean Limit Value 2020,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1D6DDCCE-83CA-4AC8-9DE2-2EB4DF1E8764},35770.1847515402,36196428.885617
+296,Redbridge,E09000026,Nitrogen Dioxide annual mean Limit Value 2020,43,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{0676D515-C3A4-4A53-8E99-3DB87307CB18},50404.2072763523,56405616.6245934
+297,Richmond upon Thames,E09000027,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C3DB7388-5BD5-451F-9B69-6F36D3BA7042},68791.0566237213,57393469.303218
+298,Southwark,E09000028,Nitrogen Dioxide annual mean Limit Value 2020,41,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{0DE46474-03E0-4EAF-9EA6-8E3EF0DFDA57},34620.9208235148,28867282.3408357
+299,Sutton,E09000029,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5DCA23A3-156E-4EE5-A0A0-2D551BC94EC6},39844.4233283888,43846970.9650526
+300,Tower Hamlets,E09000030,Nitrogen Dioxide annual mean Limit Value 2020,50,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{3EBD7C8E-94AF-4280-8D85-A0E9ADC2907F},28735.0933719065,19768375.6097007
+301,Waltham Forest,E09000031,Nitrogen Dioxide annual mean Limit Value 2020,42,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{B27A8EC6-D771-4E6F-9415-650557BF1C51},33339.36535061,38807964.3313191
+302,Wandsworth,E09000032,Nitrogen Dioxide annual mean Limit Value 2020,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{34C9B1D9-4CEE-4CF2-9994-FE8504389DAE},38799.5354739396,34256866.7963965
+303,Westminster,E09000033,Nitrogen Dioxide annual mean Limit Value 2020,44,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{DDE63E75-24B2-4B39-837A-11C4347A20A5},27430.6234387101,21477156.536441
+304,Aberdeen City,S12000033,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{801CE46F-2052-465C-A1CC-67DF837FC4E8},123556.580507014,185610474.243169
+305,Aberdeenshire,S12000034,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{771D8EF1-6DDD-4220-A7BD-D56D8C2C9DC4},799709.748964081,6317887803.78567
+306,Angus,S12000041,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{797054EA-DEDA-486A-8ED0-8DF5410592BC},321368.916299985,2185122862.69083
+307,Argyll and Bute,S12000035,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8A92D44F-4172-4F4C-BAD2-8E45CE045B8C},3803209.36951455,7006318125.25739
+308,Clackmannanshire,S12000005,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EC82A185-BA1A-447C-8B42-D3BE8C2EEB48},94185.4153006457,158972120.172314
+309,Dumfries and Galloway,S12000006,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{370F6DFA-7FA4-40B5-B460-843D27AF631E},1204443.71146869,6436441092.00878
+310,Dundee City,S12000042,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{85936150-CF64-4082-8684-EBD373243C25},46805.9469379225,59830971.359946
+311,East Ayrshire,S12000008,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D796D07B-B8F7-43A5-9711-A64ED596015F},340964.549131594,1270342031.26971
+312,East Dunbartonshire,S12000045,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{07FC4722-60CF-4673-9335-F471D903085A},99603.0545770938,174489016.753697
+313,East Lothian,S12000010,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{96F0E057-A110-49FC-A032-9A969844B05E},200290.247298163,679179836.309118
+314,East Renfrewshire,S12000011,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7057C26D-ADD9-498E-A78A-4D5A7721C338},93882.5140036291,174249494.312654
+315,City of Edinburgh,S12000036,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{69DB67CE-DA3E-4EDD-A079-7A6C04212BD2},108121.329976751,263351803.909778
+316,Falkirk,S12000014,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EB141614-10F9-4694-B51B-68B2830B0A7C},145018.724277237,297365613.214426
+317,Fife,S12000047,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BA8466CB-C790-4585-9FF8-F1E2E4217B01},354737.733384572,1325381099.28936
+318,Glasgow City,S12000049,Nitrogen Dioxide annual mean Limit Value 2020,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B31C19F2-EC6E-407E-AF16-5C0D640FF7D4},135584.074837304,174621296.391104
+319,Highland,S12000017,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{39A87EFD-6B21-4491-BA3F-CEDF08AEB872},5221672.91689105,26159623364.809
+320,Inverclyde,S12000018,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{18C4EE03-BFE8-4987-813D-7307E3858E9C},79292.3993194081,161948858.627358
+321,Midlothian,S12000019,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{18417A6C-B0AE-489D-9399-19A7C7B042DE},126471.062777019,355271573.021186
+322,Moray,S12000020,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{24BA86C2-8418-4FD7-971D-B93ED5EC3A91},459685.936136255,2237218030.80783
+323,North Ayrshire,S12000021,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9D97454D-7170-46EF-8DBC-ECF51801E606},349479.371611209,885276171.260992
+324,North Lanarkshire,S12000050,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EC307556-42F2-42F3-95A4-4E848464E2BB},163984.724709276,472309075.060379
+325,Orkney Islands,S12000023,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{0979A7E2-6810-4276-AC45-4575B8F5C3A5},1203626.44906208,1015068427.10954
+326,Perth and Kinross,S12000048,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B117C399-1A7E-49FD-9273-A06F128E53BC},619318.000640052,5383759647.16091
+327,Renfrewshire,S12000038,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B4D13211-7949-4038-8D54-C41D1734B4CA},131636.237991738,261487693.210925
+328,Scottish Borders,S12000026,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{85321FC1-6CAE-4BA9-AFD3-A2D4071242DA},514891.622612693,4739182406.06294
+329,Shetland Islands,S12000027,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{233CBDB0-8F67-49C1-BAE1-9CB4687BDE0B},2322377.79167611,1468495456.02047
+330,South Ayrshire,S12000028,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{04D61C5A-73AD-4260-9725-89C7EABE2EB4},334722.293696274,1224369285.20356
+331,South Lanarkshire,S12000029,Nitrogen Dioxide annual mean Limit Value 2020,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{86351F76-2670-485F-99F0-B67A607DF079},284527.34016518,1773897195.5193
+332,Stirling,S12000030,Nitrogen Dioxide annual mean Limit Value 2020,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3BB00F78-F08E-419D-B669-BA3754CB3B46},341963.178281952,2253344395.5433
+333,West Dunbartonshire,S12000039,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FAE07D65-7334-45C3-928C-E87A2843FF06},103697.458333469,177320345.918354
+334,Na h-Eileanan Siar,S12000013,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B913B1D0-2344-47D1-9FC2-530301EBB3B9},3874620.49577166,3096880085.89603
+335,West Lothian,S12000040,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1A94D48F-2FA2-4D1D-8A3F-1F903C9C5735},134896.644326242,428772096.65787
+336,Blaenau Gwent,W06000019,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{956EF988-5B16-444F-B3DB-A32ED98C2F85},65601.7710712483,108728050.001396
+337,Bridgend,W06000013,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FBE2A49D-8DEB-4AD3-8BDC-183B53A509D8},93192.1976202919,250785304.544487
+338,Caerphilly,W06000018,Nitrogen Dioxide annual mean Limit Value 2020,47,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{BFB09C32-98F7-414C-8CCF-18533FBC46CA},116205.751406757,277387812.478975
+339,Cardiff,W06000015,Nitrogen Dioxide annual mean Limit Value 2020,32,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{20195BE0-8336-44C9-BF94-FAA87A0F5978},79778.2910840568,142287154.44123
+340,Carmarthenshire,W06000010,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C269AF02-FB32-4897-BB07-38DAE6C1A8E0},591603.878496041,2371103920.5118
+341,Ceredigion,W06000008,Nitrogen Dioxide annual mean Limit Value 2020,13,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{DE0D16CE-4080-4850-A048-FCD8161AE2BD},380232.841254069,1788908741.41065
+342,Conwy,W06000003,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6CC38D44-BCE4-47C8-B411-044FD38B083B},283047.440462211,1130197330.18461
+343,Denbighshire,W06000004,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F56A6FCD-D5CD-4E38-8072-8BDE2349C83A},228673.537419035,838569401.650381
+344,Flintshire,W06000005,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F72020A5-1586-4D20-A594-3214D1AD6AA4},239102.416881164,439723939.165062
+345,Gwynedd,W06000002,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2F5E7DC9-034D-4ED2-86FE-201B9AF5EF1F},632724.571424226,2547891706.6665
+346,Isle of Anglesey,W06000001,Nitrogen Dioxide annual mean Limit Value 2020,10,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{100EAD91-56EA-4EA1-A7EB-B20E7CB4FF9E},377822.31736502,714827609.556943
+347,Merthyr Tydfil,W06000024,Nitrogen Dioxide annual mean Limit Value 2020,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{894EE779-394C-4985-B908-F87D62C73570},66696.9295920567,111957018.608226
+348,Monmouthshire,W06000021,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{168C0878-C62A-4638-94E9-9090777FAF34},224184.496319547,850264584.692628
+349,Neath Port Talbot,W06000012,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{18BC7D71-AA42-4FE5-A2DC-81A2D242658C},182189.891977866,442272614.954999
+350,Newport,W06000022,Nitrogen Dioxide annual mean Limit Value 2020,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6CBE2933-05B7-479F-B30E-2B8A3DCA23F5},153723.498020193,190372842.060922
+351,Pembrokeshire,W06000009,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7FC0F70E-051C-4676-A061-08E8E5F35BC7},743272.933168956,1618344600.97342
+352,Powys,W06000023,Nitrogen Dioxide annual mean Limit Value 2020,12,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D37FDAB1-F4CB-4EF9-901A-C003ED48113F},610145.541416205,5195312116.78482
+353,Rhondda Cynon Taf,W06000016,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{196FC3BE-E257-4529-ADA4-4F070CDBF34E},130240.675463069,424150424.443562
+354,Swansea,W06000011,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BAB1AED3-EE1B-407E-BA7A-EC8BC8BE7977},270783.370554105,377596417.00693
+355,Torfaen,W06000020,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{35EACB37-31B7-44C7-9BA0-60F1459F01C5},82544.7759674217,126239927.800792
+356,Vale of Glamorgan,W06000014,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1E5552E5-8A3E-4796-A6BE-3205CACC9D5A},108377.993669205,331257510.067063
+357,Wrexham,W06000006,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{84DF968B-E34C-4C02-8621-EFA2F8694082},190040.818038468,503773489.327213
+358,Isles of Scilly,E06000053,Nitrogen Dioxide annual mean Limit Value 2020,3,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{02727770-250E-4202-B173-E39D6F21B366},116312.050817675,16337569.4228754
+359,County Durham,E06000047,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2D7BEC3B-AD77-428C-AEF0-E315923FA8DE},314911.224386944,2231459817.94596
+360,Northumberland,E06000057,Nitrogen Dioxide annual mean Limit Value 2020,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6DCD5277-802B-4755-BDBB-1D8D8510FEE7},601230.810060573,5030751708.1467
+361,Shropshire,E06000051,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1EAD644C-ECA0-4A4B-B529-572FF9285263},580650.678546698,3197275381.12607
+362,Wiltshire,E06000054,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5C6C8E79-70E5-47F4-BCFD-148EDD2A9A80},402006.968203754,3255338123.71718
+363,Central Bedfordshire,E06000056,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CE30A315-3484-40CE-AA3F-BE2D45433037},232692.717694514,715665302.20009
+364,Cheshire East,E06000049,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9F8AB70D-151D-40FC-8960-AE6DF815C44D},301225.377394864,1166357379.5532
+365,Cheshire West and Chester,E06000050,Nitrogen Dioxide annual mean Limit Value 2020,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C57B0AE5-05BE-4D82-AEE2-47EAD147901F},335615.350142603,920017989.862046
+366,Cornwall,E06000052,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2D14C982-7764-44C7-B6F0-CF33229D6976},1241482.93652261,3548934061.31534
+367,Antrim and Newtownabbey,N09000001,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{29DE9630-E317-494C-9151-EA5D6376916B},165145.087874744,728186553.509529
+368,Armagh City Banbridge and Craigavon,N09000002,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{01077F23-9057-44F0-BF22-8D79DFADAD2A},243056.447070263,1437068553.12479
+369,Belfast,N09000003,Nitrogen Dioxide annual mean Limit Value 2020,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5584A999-F713-4EE0-89D3-8037A2CBE477},65908.653826069,137716630.472662
+370,Causeway Coast and Glens,N09000004,Nitrogen Dioxide annual mean Limit Value 2020,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F383363F-267D-4B23-9AF0-DA35ED2D89AE},381750.417386068,1985534511.18953
+371,Derry City and Strabane,N09000005,Nitrogen Dioxide annual mean Limit Value 2020,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D3BA8672-6045-4554-8037-07B6148C71D0},271488.956324295,1251241562.86132
+372,Fermanagh and Omagh,N09000006,Nitrogen Dioxide annual mean Limit Value 2020,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{32ADF966-D18B-4F30-BB7F-079ABF6D404E},426624.234971301,3012114876.90125
+373,Lisburn and Castlereagh,N09000007,Nitrogen Dioxide annual mean Limit Value 2020,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3DE4B010-617B-4519-A3F8-89329781F612},167383.523889689,510438068.178239
+374,Mid and East Antrim,N09000008,Nitrogen Dioxide annual mean Limit Value 2020,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F8EDF696-9617-4EE6-966D-BD2427CF946A},234863.3303294,1061355466.99125
+375,Mid Ulster,N09000009,Nitrogen Dioxide annual mean Limit Value 2020,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1C879678-FD45-42B3-AC8F-F945E1CEB430},318433.308425238,1957293802.62133
+376,Newry Mourne and Down,N09000010,Nitrogen Dioxide annual mean Limit Value 2020,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1D92D032-5030-44D6-8CA8-FC478F51B4A1},380093.278004495,1682340589.11656
+377,Ards and North Down,N09000011,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3B3E8266-E2A0-40C9-9E7A-52D8D5F18C1C},204689.104478935,566472954.625102
+378,Bournemouth Christchurch and Poole,E06000058,Nitrogen Dioxide annual mean Limit Value 2020,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{32B39B6B-8230-4F9C-AD7F-185FBC06F625},169172.238128128,162070065.513307
+379,Dorset,E06000059,Nitrogen Dioxide annual mean Limit Value 2020,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{029032D8-4733-4624-86A5-EB01DFB7BEAA},594358.349992159,2490956587.49922
+380,East Suffolk,E07000244,Nitrogen Dioxide annual mean Limit Value 2020,26,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D6F8CCEB-FC44-436B-A298-CB342E89C31A},584787.509022933,1260989609.73078
+381,West Suffolk,E07000245,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6DA9EA1A-7F4A-4138-9A50-59F13E971D23},274547.779729504,1034675784.57658
+382,Somerset West and Taunton,E07000246,Nitrogen Dioxide annual mean Limit Value 2020,25,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F90F3EB4-7696-4665-8FEA-B9BC57D1FC7E},288674.538792219,1189084337.09573
