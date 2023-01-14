@@ -1,0 +1,383 @@
+﻿objectid,name,unique_code,pollutant_metric,maximum_value,unit,compliance_status,compliance_metric,globalid,shape_Length,shape_Area
+1,Adur,E07000223,Benzene annual mean Limit Value 2020,0.53,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E71E2463-40EF-40EE-A2ED-4F80B4CD47A6},60515.7048534191,42065495.8655339
+2,Allerdale,E07000026,Benzene annual mean Limit Value 2020,0.83,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AC5AAEC1-338F-4928-87BA-A760A5A03CE0},326945.356862588,1258291719.61533
+3,Amber Valley,E07000032,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E32BD280-CA89-4A53-A935-2997332AD058},109036.520389866,265437867.659006
+4,Arun,E07000224,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8575ED27-250D-48D9-B629-C2E4D8462262},156498.064172033,220991201.464093
+5,Ashfield,E07000170,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{4B04CC09-8F42-41E8-84CE-9597CC508FD5},69174.8494196409,109557941.106055
+6,Ashford,E07000105,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1413A647-FB5E-4806-9D82-1E0734389253},149446.491111581,580617312.655573
+7,Aylesbury Vale,E07000004,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9FFC4905-84EC-426A-924E-746693FFEFE5},243091.827325023,902753224.901714
+8,Babergh,E07000200,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{703306ED-5E86-4F49-8811-8888E70C47BA},210447.822242862,595116563.756272
+9,Barnsley,E08000016,Benzene annual mean Limit Value 2020,0.68,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{90920948-4C39-42E2-9ECC-113BACAAB51A},126421.141800593,329077594.566186
+10,Barrow-in-Furness,E07000027,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B441F2D3-10A3-4226-8418-9B65E483A001},146480.186634252,77897001.8641374
+11,Basildon,E07000066,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{949F5E6F-62E8-4C50-8F5A-9E1B28FB55D8},85631.2104981443,110001023.654764
+12,Basingstoke and Deane,E07000084,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{827A6EA4-3529-42FF-B9E0-235E143D0EFD},143437.384228917,633817172.002662
+13,Bassetlaw,E07000171,Benzene annual mean Limit Value 2020,0.36,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9F17ECD7-89EE-4E94-BE2C-B66DEA6805C6},159734.777561217,637803646.209099
+14,Bath and North East Somerset,E06000022,Benzene annual mean Limit Value 2020,0.77,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D3EA08DC-C149-4DEF-9F90-D8A78C844A16},141684.814205707,351123213.756385
+15,Bedford,E06000055,Benzene annual mean Limit Value 2020,0.53,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{FE7A0D7D-E3A3-4A80-8217-39A62839D179},131721.268581354,476408299.162407
+16,Birmingham,E08000025,Benzene annual mean Limit Value 2020,0.65,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B08D22E0-051D-4E84-844F-2AFDF0DB537D},106260.720206501,267791059.937127
+17,Blaby,E07000129,Benzene annual mean Limit Value 2020,0.43,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B2A419DC-2864-4450-937D-C647F20FD7BD},100819.96689132,130468676.864844
+18,Blackburn with Darwen,E06000008,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{584E19A5-23ED-40E3-8220-7D4098E5B145},65284.9709825299,137022079.723958
+19,Blackpool,E06000009,Benzene annual mean Limit Value 2020,0.34,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B38E709A-9F09-4702-BE98-88BD3442DA35},34483.4874941581,34870886.4556478
+20,Bolsover,E07000033,Benzene annual mean Limit Value 2020,0.43,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9D087C1E-68DC-46A5-9C58-F3C467C8D069},96239.2025655061,160334649.782959
+21,Bolton,E08000001,Benzene annual mean Limit Value 2020,0.53,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{88DEAEB5-9B73-4B23-9DFB-86BA7B72C81E},82647.1577312723,139792042.62735
+22,Spelthorne,E07000213,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{03FAAD92-47D5-4DF5-AAD0-D9552419A32D},44134.5375970837,51161362.5433989
+23,Boston,E07000136,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9920E3E4-6EF3-4306-8A17-BE90A1CF894C},156197.44730287,364889918.615237
+24,Bracknell Forest,E06000036,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8B6FC3A1-CDE1-4DE5-80E5-5AD78EB55A0D},62508.0775037021,109384210.265679
+25,Bradford,E08000032,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1DDF1977-AE4E-4D97-B186-E21F21D823E4},135920.613224069,366419741.977217
+26,Braintree,E07000067,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2A65F67D-B1A4-4773-AFFA-6AB08411055E},168686.435910163,611707973.504294
+27,Breckland,E07000143,Benzene annual mean Limit Value 2020,0.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3B480DFB-2E12-47C1-AE1F-0EBDFBBA8DC3},239527.75362879,1305116639.16987
+28,Brentwood,E07000068,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{112F8E61-1AF7-47C9-8DDC-D0E1A4BA68A6},72339.4999846342,153124048.304794
+29,Brighton and Hove,E06000043,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DEF0763F-8623-4228-A353-846BBBC1A748},59519.4569407267,82832958.7782717
+30,Bristol City of,E06000023,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3DB6B9C6-910E-488B-8E4E-DAE29ED5D645},109722.849282358,109700128.696473
+31,Broadland,E07000144,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{188E3C1E-731A-47AB-B73A-91E56B3FB157},219128.240393652,552060636.330038
+32,Bromsgrove,E07000234,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E09B0F8F-6F8D-4298-A0AA-56F6D1040C39},113135.446682072,216968481.075697
+33,Broxbourne,E07000095,Benzene annual mean Limit Value 2020,0.58,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{26E419F5-C163-478E-AF08-AC3ED86E1F7C},39068.7457937671,51442303.5951213
+34,Broxtowe,E07000172,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{87D10128-44D6-46B1-9CA0-45EBB82BA7F5},65999.8327992654,80098837.128832
+35,Burnley,E07000117,Benzene annual mean Limit Value 2020,0.43,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B01D8EAB-3A2D-4D7B-99BD-48EA622D2316},57764.5705752294,110684000.240327
+36,Bury,E08000002,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6ACD8F8F-C395-47B9-AD89-2A12BAA796BB},68541.7597922065,99460126.9023201
+37,Calderdale,E08000033,Benzene annual mean Limit Value 2020,0.88,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A388448D-1E5A-4AA5-BA4F-F0BC0AFC29FA},107687.458147597,363960989.528606
+38,Cambridge,E07000008,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{87A271FC-BBA8-4379-840E-AC1F1325B1DE},37170.4431684185,40698794.9341954
+39,Cannock Chase,E07000192,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5A83D66E-9E46-443D-8E29-A5D1917E648E},50127.6044538487,78882570.4932335
+40,Canterbury,E07000106,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8131361B-20FC-475C-B792-9E0C842EA1B9},134481.878863405,308752567.217783
+41,Carlisle,E07000028,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{457BCB86-9DFA-410C-A725-1285FEB3DFFE},278415.522865306,1038300028.98441
+42,Castle Point,E07000069,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3A05B2E2-67A7-4271-84F6-1F2B9FB6802C},163452.231415357,44673525.2910833
+43,Charnwood,E07000130,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E5E27853-7B31-4236-A0A2-B245FC3327AB},115474.39092268,279042271.327479
+44,Chelmsford,E07000070,Benzene annual mean Limit Value 2020,0.56,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6A57794A-460F-4BA4-9DF7-7FA9CF276953},126395.550322855,342227520.457088
+45,Cheltenham,E07000078,Benzene annual mean Limit Value 2020,0.44,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3E6CE888-FB24-40FE-9E90-F7D6710F4D98},38231.0639602267,46596069.217582
+46,Cherwell,E07000177,Benzene annual mean Limit Value 2020,0.79,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{59AD4DA0-42C7-4DB8-891C-E9D990637C7B},225626.554294161,588741170.216276
+47,Chesterfield,E07000034,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BDF6DE66-D839-4F46-AF46-02E564FD7A2C},52617.7672509432,66035290.6854306
+48,Chichester,E07000225,Benzene annual mean Limit Value 2020,0.65,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B68553DA-AE06-4A67-8836-AD977792F9A7},297274.786304603,786194870.307895
+49,Chiltern,E07000005,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B269D446-AA19-46D4-9990-03E9B092564B},87262.6779132276,196348229.80578
+50,Chorley,E07000118,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{46768236-98D2-4E03-A796-DBCB5ED1596F},114515.91905975,202762137.791735
+51,York,E06000014,Benzene annual mean Limit Value 2020,0.54,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{529C0AA0-AB1F-4E66-88CE-3EEF0E29EB7F},101957.593922078,271936983.74298
+52,Colchester,E07000071,Benzene annual mean Limit Value 2020,0.66,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2A150B07-9AE6-4D6D-B793-3E48406C4531},318168.31141223,332325214.702393
+53,Copeland,E07000029,Benzene annual mean Limit Value 2020,0.2,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1AFD05A2-C309-42FE-B3E9-C0E07F62D8A2},252311.6869998,737631222.408507
+54,Corby,E07000150,Benzene annual mean Limit Value 2020,0.44,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{46C285F0-939C-4C2A-8AF9-4EE823C402D3},66291.6315252928,80280903.1353249
+55,Cotswold,E07000079,Benzene annual mean Limit Value 2020,0.34,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A84F7FFB-CEA9-481D-A14C-7620A4E4D291},332445.324069324,1164524415.18048
+56,Coventry,E08000026,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{310EB5DC-C8AA-44DB-BB08-1614D6AFCDB0},54057.3813145352,98639059.7934014
+57,Craven,E07000163,Benzene annual mean Limit Value 2020,0.28,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9AF7E050-EE99-4A53-B9C6-EA6DAE864BEE},199883.769775131,1178807442.49167
+58,Crawley,E07000226,Benzene annual mean Limit Value 2020,0.58,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5AA5D10C-29FE-4C20-AF58-6D8E43DAB501},38799.7232795746,44971204.972705
+59,Dacorum,E07000096,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A26D59C6-83B6-43C1-9F84-72406A2AE0EA},110103.830872474,212476397.682695
+60,Darlington,E06000005,Benzene annual mean Limit Value 2020,0.3,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F6A22FA4-79FD-4FD4-A186-A44679ED1E77},107206.401677287,197475688.992375
+61,Dartford,E07000107,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F007A629-A231-4654-AEA0-46DEE7287460},57309.4061272109,72725577.0930406
+62,Daventry,E07000151,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{876C83E2-915F-44F8-85D6-4E6D7ACB1AF7},181982.944966609,665600468.851017
+63,Derby,E06000015,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{99A806B5-5943-400A-A43D-0B657FF4CF63},50037.7355262197,78031124.2977334
+64,Derbyshire Dales,E07000035,Benzene annual mean Limit Value 2020,0.28,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{838416B9-7DC4-4D10-9498-82660713427B},245475.846641527,795318063.283345
+65,Doncaster,E08000017,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9E346315-5159-4708-BA64-C51D8713FC9E},171070.334828116,568022257.266172
+66,Dover,E07000108,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{4C696065-D6CA-4E7F-B0A8-13224A9C64E3},148160.889608644,315337967.02553
+67,Dudley,E08000027,Benzene annual mean Limit Value 2020,0.67,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0AA093C0-30A7-465B-9ABD-1312571BB938},75382.32965079,97958242.9719
+68,East Cambridgeshire,E07000009,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AA15FCD2-E319-4C3D-8759-441474A7255C},234187.982641904,651286023.597182
+69,East Devon,E07000040,Benzene annual mean Limit Value 2020,0.27,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CD53CB51-C9C3-444C-A877-5C89BFFA2009},219544.921202018,814227311.153461
+70,East Hampshire,E07000085,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{85A07C08-AD9A-4F63-A1C1-6738BA44F195},144540.791479266,514432074.863371
+71,East Hertfordshire,E07000242,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B2ABB18E-86A1-4EAB-A26A-141D4A073AF7},135188.279171723,475669101.994583
+72,East Lindsey,E07000137,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3A450E0F-A9D3-4334-B710-ED644A1E269F},373207.484381739,1766773253.8254
+73,East Northamptonshire,E07000152,Benzene annual mean Limit Value 2020,0.44,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{39E73722-39E7-489F-8976-110B60C38E57},163229.120046976,509787257.638368
+74,East Riding of Yorkshire,E06000011,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F74EEA46-0481-4313-BF9E-F0D76E65C00E},504148.429232311,2404995299.25661
+75,East Staffordshire,E07000193,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{99D0177F-BFA0-41A5-8FA8-89CB661A1EAC},183696.396809301,389987162.124037
+76,Eastbourne,E07000061,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A20950EA-A7B4-410D-BBA9-A789477E4532},38032.2810407959,44161432.4837987
+77,Eastleigh,E07000086,Benzene annual mean Limit Value 2020,0.59,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5F1AE779-08E1-4106-B825-4C2E7E51F92F},75889.8885924889,79678662.3917766
+78,Eden,E07000030,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1F3D10F7-8B10-4B85-8B5C-9EA62B47083C},268725.444007917,2156474495.37604
+79,Elmbridge,E07000207,Benzene annual mean Limit Value 2020,0.58,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{40296770-1713-477A-8D87-D695CCCABF89},52206.1263725069,96334275.3882592
+80,Epping Forest,E07000072,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E0BE544B-54A1-4392-82F0-563E067488EA},123273.197785467,338984123.904901
+81,Epsom and Ewell,E07000208,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0B3FFFEB-3DBA-435D-88AE-04EC0A2ACA0A},28503.7008598138,34079152.9616364
+82,Erewash,E07000036,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1E46D868-2F2C-40BD-A513-CD3A5F4F0F4F},73547.5600218709,109630046.234834
+83,Exeter,E07000041,Benzene annual mean Limit Value 2020,0.28,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{644FC962-F9E5-4F73-9297-E1DA0401BAC7},50238.5061138255,47033052.7920173
+84,Fareham,E07000087,Benzene annual mean Limit Value 2020,0.56,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{698B637B-1395-4A6E-B683-FC04C899766F},66504.8594452672,74260060.1001562
+85,Fenland,E07000010,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DC2A28E3-E5F1-4EDD-AF69-67A7CB33304B},187882.168085419,546450057.397399
+86,Forest of Dean,E07000080,Benzene annual mean Limit Value 2020,0.29,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3AD8C2ED-2717-4B47-9B72-6F933C2C4319},190005.278190059,525899257.744365
+87,Fylde,E07000119,Benzene annual mean Limit Value 2020,0.3,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{7DD44237-55F4-41C2-9414-8C8787F03EE2},138118.575679066,165696809.26837
+88,Gateshead,E08000037,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DC9E04E9-B51D-4AEE-B4A4-7666E82C44AC},90476.8263971058,142369113.651808
+89,Gedling,E07000173,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9DF61F09-989D-4EB3-BA8A-8736E8251CF9},69754.6737639722,119981505.017305
+90,Gloucester,E07000081,Benzene annual mean Limit Value 2020,0.43,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{643B4494-F291-419F-9662-B65EDB30ECC8},33539.6843710176,40553089.274582
+91,Gosport,E07000088,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{28BCCA5A-9D74-4F5C-8AF3-337B849293C5},40199.0473902764,25373863.8126401
+92,Gravesham,E07000109,Benzene annual mean Limit Value 2020,0.66,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{148DFD78-92C2-48C2-A6F4-20045F33B951},60516.799156089,98991345.0269165
+93,Great Yarmouth,E07000145,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0D393767-8726-4618-9978-76B2BF991F0C},145970.743262389,174330776.387391
+94,Guildford,E07000209,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BFA5C920-4D24-48C5-B158-93EF501265E6},128414.49636405,270931189.7463
+95,Halton,E06000006,Benzene annual mean Limit Value 2020,0.44,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{10494824-9E16-47C6-9BB9-768FF610ECCE},77771.1033589913,79084035.4381165
+96,Hambleton,E07000164,Benzene annual mean Limit Value 2020,0.24,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{FBE15914-585E-46FC-A9F8-67E0314F50EA},298519.898029624,1311228139.76122
+97,Harborough,E07000131,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{40234902-378F-4C69-BF8F-737C80EF75B7},185950.911968039,592692049.699271
+98,Harlow,E07000073,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1551D4ED-AA3F-46CF-9292-074E409E885D},28515.4568027146,30537916.2891688
+99,Harrogate,E07000165,Benzene annual mean Limit Value 2020,0.34,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F213AE1A-93C0-470C-A7C1-B731EE6F5647},246964.624319697,1309127592.76051
+100,Hart,E07000089,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E09C0D14-0842-4B35-ABF1-F87BE4095F4D},77847.8295539031,215265080.340954
+101,Hartlepool,E06000001,Benzene annual mean Limit Value 2020,1.1,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D2EA8A33-FA6A-4BE1-B9B2-47CB283869BA},71011.9339493173,93712619.8175595
+102,Hastings,E07000062,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BD6A09F7-C00F-4E2E-9C49-3157879EBD43},34102.1075516755,29796091.9965189
+103,Havant,E07000090,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1CC2AD2E-EDE0-4A2C-AD79-F5A6ABA6A938},115626.17020584,55739600.0488405
+104,Herefordshire County of,E06000019,Benzene annual mean Limit Value 2020,0.32,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BC213388-84DD-4AE0-B954-8F44398C47BF},349889.439797694,2179709442.25922
+105,Hertsmere,E07000098,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8509B069-53F1-4D48-B51A-B4175194841D},61228.163848612,101128162.742547
+106,High Peak,E07000037,Benzene annual mean Limit Value 2020,0.54,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8755A0EA-16F7-4CD6-8757-42C69FA09EF1},159632.998758142,540253999.811558
+107,Hinckley and Bosworth,E07000132,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{94652828-FC26-4ACB-B865-6CADBE800E34},111546.302486751,297351486.796789
+108,Horsham,E07000227,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9B5B61A5-7878-478C-873A-DB9C46A1D4D1},215760.176955472,530278363.738596
+109,Huntingdonshire,E07000011,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5170642B-957C-452B-B219-64C03FA167CE},223338.133370289,912455239.159139
+110,Hyndburn,E07000120,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F79208E4-B60B-4B82-A133-AFF094B430E3},42655.4911054249,72997474.3941501
+111,Ipswich,E07000202,Benzene annual mean Limit Value 2020,0.56,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{59DE692F-2DC5-48EC-943B-EE426F9C77BC},45342.3418168469,39509794.6377266
+112,Isle of Wight,E06000046,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{09A6E3CC-2CA0-4FE7-ADE9-915F40D1CC43},210106.299410113,379614785.758663
+113,Kettering,E07000153,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{56171E92-3E3A-4BF1-A06D-6F78B2F327B5},100689.501131667,233489923.713026
+114,King's Lynn and West Norfolk,E07000146,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A75ED1D6-EB0A-4242-BEB5-4A179C5D3B25},694956.727048648,1439480389.44158
+115,Kingston upon Hull City of,E06000010,Benzene annual mean Limit Value 2020,1,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2A22D5A5-9C2E-42A1-A15D-BC2750A3DC6E},64681.1195108781,71583611.6877471
+116,Kirklees,E08000034,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CC62F1F5-B6C1-4301-B5D4-9190B58C040D},125668.53136549,408551664.068336
+117,Knowsley,E08000011,Benzene annual mean Limit Value 2020,0.44,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{50AFAB62-AB76-420F-82CD-B8C9874A1817},68167.3691636953,86500060.7561386
+118,Lancaster,E07000121,Benzene annual mean Limit Value 2020,0.3,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{FBE3790F-F85C-482D-A805-8AE1F42BAFA1},345349.753588741,566935933.498085
+119,Leeds,E08000035,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{13455095-8889-42CE-8E2D-6D9E7E6976FD},161521.909190699,551706537.38357
+120,Leicester,E06000016,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{726CD28F-2526-45DE-A57A-397C281A6D28},51932.0033485036,73342074.19008
+121,Lewes,E07000063,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E002E383-A7DA-4563-A2CB-ABCADA099872},168359.913078747,292106798.641785
+122,Lichfield,E07000194,Benzene annual mean Limit Value 2020,1.1,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6FED41EB-F819-471A-AADC-4517754660DC},127468.406693591,331294334.024327
+123,Lincoln,E07000138,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{307DFC08-31FD-4CA2-8C6D-C610D276955F},32969.8765973623,35690272.5729232
+124,Liverpool,E08000012,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9E34C0F8-04B2-4217-822B-F69C52EE8139},62699.7511420456,111835572.266135
+125,Luton,E06000032,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{01BFFB0F-2F0A-4CFF-A361-030529BACE27},34569.6531192547,43352491.64567
+126,Maidstone,E07000110,Benzene annual mean Limit Value 2020,0.99,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6A50E242-D168-4885-A1A8-2081B0F075B6},122980.730512034,393329520.923427
+127,Maldon,E07000074,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A353BB26-E0A0-492F-9F05-E7608B8DDEE3},469757.895285973,357815660.310834
+128,Malvern Hills,E07000235,Benzene annual mean Limit Value 2020,0.28,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A460BD91-69DE-490E-B03A-ED8CF3D7A2B4},230605.757150617,577070981.90519
+129,Manchester,E08000003,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F0510E4A-7B17-4530-B8C4-95B666723BFF},86851.0901577424,115648208.622335
+130,Mansfield,E07000174,Benzene annual mean Limit Value 2020,0.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DC66F21D-81BB-4134-B648-024FDDF5F3A5},51090.8571646592,76696898.5856727
+131,Medway,E06000035,Benzene annual mean Limit Value 2020,0.79,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DCC630A9-B98F-444E-A746-90ADF680D58D},249509.74161654,193714281.102373
+132,Melton,E07000133,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3BD9A514-9D43-4805-8788-A1FCDB7B8186},140629.640964373,481380515.191377
+133,Mendip,E07000187,Benzene annual mean Limit Value 2020,0.34,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2EDFF1BB-6667-439C-8808-5EC40E2B41C4},198850.07740517,739435423.569124
+134,Mid Devon,E07000042,Benzene annual mean Limit Value 2020,0.32,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3EE93F40-0434-4A4D-8450-6B8ED691BAFE},246408.793542254,912897719.729189
+135,Mid Suffolk,E07000203,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{C042DBB0-7EED-4034-8E44-D22598CF91A4},191154.673181977,871070645.727273
+136,Mid Sussex,E07000228,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{7809CEF7-4DBF-4125-B105-52B4C97D8FF1},132912.37344589,334029222.418473
+137,Middlesbrough,E06000002,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1866E8C7-F11D-4BC5-B176-4567398E2F98},44481.6912420956,53881564.2712312
+138,Milton Keynes,E06000042,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0A29F6A0-A951-404B-B4E4-CD59E7A7701F},102960.590212706,308626789.344666
+139,Mole Valley,E07000210,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8830B583-D0FF-497D-9DBD-6A6B56C71375},105403.178834247,258320953.453331
+140,New Forest,E07000091,Benzene annual mean Limit Value 2020,0.84,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D10C838B-434B-44EA-BD78-DCB74B42ADD3},332044.023252545,752175262.268098
+141,Newark and Sherwood,E07000175,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8EACE4AC-87AF-40D4-90DF-C21E2EC0B18E},187422.523890761,651340472.135509
+142,Newcastle upon Tyne,E08000021,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{35AD422B-F02B-44ED-80BA-782833ED2395},65210.1731267536,113461462.938742
+143,Newcastle-under-Lyme,E07000195,Benzene annual mean Limit Value 2020,0.44,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{30A7AA17-8C0A-4A40-BBA9-14B2764973A4},108259.286644032,210957319.413959
+144,North Devon,E07000043,Benzene annual mean Limit Value 2020,0.32,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6BB1CB7B-96D3-45EE-B334-B62DB5C74175},308999.636073381,1085857679.30469
+145,North East Derbyshire,E07000038,Benzene annual mean Limit Value 2020,1,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0CA3E813-D1C5-4CCA-BE7A-E341516863A5},161243.879502128,275623524.396739
+146,North East Lincolnshire,E06000012,Benzene annual mean Limit Value 2020,1.2,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{FA94F5FF-376F-417A-90BC-6BA335A4B8B3},93248.7198118338,192622956.447469
+147,North Hertfordshire,E07000099,Benzene annual mean Limit Value 2020,0.81,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8A385F67-2F44-455A-AAED-981D5CB9B68C},168316.826377509,375382315.818064
+148,North Kesteven,E07000139,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A547341A-CF53-4CE3-B1EB-E1B00866E5E2},181807.859532353,922471388.545782
+149,North Lincolnshire,E06000013,Benzene annual mean Limit Value 2020,2.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6C873EC8-2F97-416F-BAA7-0AF4293C3164},244632.768773185,846499243.955763
+150,North Norfolk,E07000147,Benzene annual mean Limit Value 2020,0.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{921DB4EF-98C9-433C-B693-1B43DF517C7A},600214.349706249,967553236.501038
+151,North Somerset,E06000024,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CE8A920D-AA7A-41C1-B372-37B04B2EFDC7},154190.82747873,374605310.994406
+152,North Tyneside,E08000022,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{55C48F9B-7C5D-4AE3-881A-2DA5B1885068},65337.7810807925,82313734.6892341
+153,North Warwickshire,E07000218,Benzene annual mean Limit Value 2020,0.36,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1645447F-27C7-4C30-9E99-F1A822CD56AD},113230.602690986,284261503.629142
+154,North West Leicestershire,E07000134,Benzene annual mean Limit Value 2020,0.32,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8818637A-1A16-408E-8FC2-0B173C41CDEE},116453.203897831,279328072.743157
+155,Northampton,E07000154,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B0A7F93E-94B6-4943-926B-D24E62FC9F13},46341.5244265946,80771938.7916567
+156,Norwich,E07000148,Benzene annual mean Limit Value 2020,0.61,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{85628F5E-A2F6-4F5C-9D02-4E499624B8E2},52686.6307096359,39021966.3116075
+157,Nottingham,E06000018,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1A377ED8-79C4-4476-AD26-E0C2165661B3},58724.236525949,74613560.4819929
+158,Nuneaton and Bedworth,E07000219,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6E884D73-1A45-4FA8-A211-7B1BECD57747},48148.7091081877,78950291.8162236
+159,Oadby and Wigston,E07000135,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DF985BBA-B053-4744-979E-2CB3716BA36F},31172.0311908166,23526096.6872208
+160,Oldham,E08000004,Benzene annual mean Limit Value 2020,0.56,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D9E08D3D-4993-415B-85A2-EDC09DC1DEAA},71165.7315377078,142344917.304019
+161,Oxford,E07000178,Benzene annual mean Limit Value 2020,0.53,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6EFCF7C1-58A5-489F-95E8-5FF206EBE706},34999.6552171394,45602912.6828519
+162,Pendle,E07000122,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F2781386-B58E-4DBC-A1E3-E5933DCBDA3B},79243.8077162668,169380092.197238
+163,Peterborough,E06000031,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B1ECA617-606F-45FA-B9F4-97387BBC3388},112678.124727893,343378151.164244
+164,Plymouth,E06000026,Benzene annual mean Limit Value 2020,0.43,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9032D9C3-8748-4986-AEB0-040E2CA36725},92645.7718821412,79849713.7202877
+165,Portsmouth,E06000044,Benzene annual mean Limit Value 2020,0.69,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6A1A6E52-6DB7-4F71-A210-F2726785D0FD},61406.7196667782,40391212.0095036
+166,Preston,E07000123,Benzene annual mean Limit Value 2020,0.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0FA4B4F3-F4F5-4CAF-9CC2-48DB660E7AB7},82804.9719060607,142284180.475832
+167,Reading,E06000038,Benzene annual mean Limit Value 2020,0.62,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{34789D96-F53C-4F98-8E92-0D0AAE8B1AD0},39330.820465747,40397991.8302793
+168,Redcar and Cleveland,E06000003,Benzene annual mean Limit Value 2020,0.97,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{72790C96-F282-4EF9-81FB-16C5715A8D64},96703.9897012835,245069508.916791
+169,Redditch,E07000236,Benzene annual mean Limit Value 2020,0.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AC4D1B7D-3733-45FC-B721-E11CA0437BE6},41301.8190573028,54250912.0736284
+170,Reigate and Banstead,E07000211,Benzene annual mean Limit Value 2020,0.56,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1EB2CEA7-71A6-4644-A354-0799B0EE6575},79923.6802028828,129143925.112569
+171,Ribble Valley,E07000124,Benzene annual mean Limit Value 2020,0.26,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E4EB926E-5EA4-46ED-B5D6-CB18E47729E9},150499.986105046,584471489.092841
+172,Richmondshire,E07000166,Benzene annual mean Limit Value 2020,0.17,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F01E8562-2C99-4112-AA1E-771F0D931257},221710.071604986,1318707276.30363
+173,Rochdale,E08000005,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{72BEDB70-1731-4F9D-A2E7-F0EC79B81EFF},82713.1547276819,158128175.084325
+174,Rochford,E07000075,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{ED77CA9D-6EF6-4D56-8368-1065C64763DA},232955.632621146,167274180.77227
+175,Rossendale,E07000125,Benzene annual mean Limit Value 2020,0.36,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8BEECE50-0262-40F8-A1B9-01032232E984},71149.8048128719,138040909.285535
+176,Rother,E07000064,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9CC03D38-203D-4BD9-86AD-19CEDAEE096D},180531.964127629,511753820.136877
+177,Rotherham,E08000018,Benzene annual mean Limit Value 2020,0.67,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5AE2C560-129F-4363-A20B-20AE47CA03DF},106151.964211962,286534367.630962
+178,Rugby,E07000220,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{76742CFD-3557-459B-8698-04E2EFBA60BC},115093.651913588,353557281.061628
+179,Runnymede,E07000212,Benzene annual mean Limit Value 2020,0.59,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{ECB777D5-C777-4479-B96A-904C211B89C3},45677.4092821162,78040686.1842939
+180,Rushcliffe,E07000176,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F339FC34-78F5-4AEF-8166-77198D8ADFA4},123324.432735945,409231535.284401
+181,Rushmoor,E07000092,Benzene annual mean Limit Value 2020,0.61,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{C86BB120-E994-4A85-AD8E-C9334AF9AF83},31893.0015033179,39045039.761089
+182,Rutland,E06000017,Benzene annual mean Limit Value 2020,0.65,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{FA8AF858-6325-4792-AA10-0F4DA2EBCC46},125885.233889929,393748908.230215
+183,Ryedale,E07000167,Benzene annual mean Limit Value 2020,0.96,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{7B545A7E-70C5-4915-B038-21721D8CF74E},249894.293084849,1506593776.95214
+184,Salford,E08000006,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{84D7E051-1991-4538-ACAC-94C73DB86628},63268.7941178626,97197278.827636
+185,Sandwell,E08000028,Benzene annual mean Limit Value 2020,0.74,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{7AC03ED2-E23A-4C6C-8D6F-BBBEA0AC528D},59211.0030546092,85558928.1595786
+186,Scarborough,E07000168,Benzene annual mean Limit Value 2020,0.36,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B75BF50F-D72F-437E-A37F-DFF7944A12FF},241939.745649544,816188420.859728
+187,Sedgemoor,E07000188,Benzene annual mean Limit Value 2020,1,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1797D5F4-1CBE-4E4D-8FD8-121509B9CBA5},242134.287189561,564543642.859635
+188,Sefton,E08000014,Benzene annual mean Limit Value 2020,0.64,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{027FC2B9-E519-4769-8364-E2207F546BCF},130345.901601814,156578243.781292
+189,Selby,E07000169,Benzene annual mean Limit Value 2020,0.32,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{09091E9B-7DA8-4A5F-A418-F0A137A490C1},264869.301894204,599310809.432597
+190,Sevenoaks,E07000111,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DE9074F8-345E-420E-ABB3-474F45E384E1},134435.514922542,370346872.0851
+191,Sheffield,E08000019,Benzene annual mean Limit Value 2020,1.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2B4460E2-7FF1-40B0-8B86-048C0E139C60},132837.299222908,367930014.570493
+192,Folkestone and Hythe,E07000112,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6CA92120-2D99-43DF-B94D-ABEBE18BF69B},148969.584540585,356921037.577986
+193,Slough,E06000039,Benzene annual mean Limit Value 2020,0.58,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{847F620A-6972-45B1-A3E6-7723D2EBECFC},44181.3937034479,32542008.9559608
+194,Solihull,E08000029,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{69864720-9EE6-4AA1-A5C2-5DB6B94B17DF},101031.448719484,178282115.90066
+195,South Bucks,E07000006,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AC7E071E-383D-4457-B799-534CE1862558},85473.909915594,141275609.07862
+196,South Cambridgeshire,E07000012,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{900AA89A-3C9B-4E7E-B59C-0B0C46C2605B},257078.232674111,901624810.46392
+197,South Derbyshire,E07000039,Benzene annual mean Limit Value 2020,0.34,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{44E4BE0F-25EF-460E-A4BD-2F8181413EF6},166693.264756748,338126970.261127
+198,South Gloucestershire,E06000025,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{26D686FA-DA74-4D1A-B0D6-A51F5C243286},141498.594060104,497035793.746443
+199,South Hams,E07000044,Benzene annual mean Limit Value 2020,0.26,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3ADC1A71-3F5F-4FF2-BE9A-0D7250F60967},478364.826113494,886510071.674955
+200,South Holland,E07000140,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{02F78235-EC30-445F-840A-ABB5C8FF8AF8},198138.771631415,750908591.673552
+201,South Kesteven,E07000141,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{34C81D0D-8887-42A5-B542-6C6E34FADE28},209816.520260682,942585797.657035
+202,South Lakeland,E07000031,Benzene annual mean Limit Value 2020,0.24,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{546FB629-6603-4FA7-AC19-73432FE45669},381861.979487717,1554923591.81439
+203,South Norfolk,E07000149,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A23B7F31-0D05-41FD-85FC-40D6073EC72A},266872.66836317,907576579.766064
+204,South Northamptonshire,E07000155,Benzene annual mean Limit Value 2020,0.36,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{820A5EAC-659A-49AA-B688-96E56BEEA304},225304.988901924,634023185.055839
+205,South Oxfordshire,E07000179,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{17838347-F90A-4029-BB58-EBF38742EE9A},205400.226544209,678521428.259037
+206,South Ribble,E07000126,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2ED3FE70-5A72-412A-B7B9-C2954D47D9B8},105352.200645432,113141865.944214
+207,South Somerset,E07000189,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{87A5777B-D9AA-414D-9179-B3C8917278FE},241317.051224869,959040237.320222
+208,South Staffordshire,E07000196,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{90F29EA2-3EED-4BDC-A96F-0CAA0F14540D},184894.339545134,407322253.357068
+209,South Tyneside,E08000023,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{12ED7D93-EC04-410B-ACD0-1C2907C3301E},51370.4961740242,64428423.6794226
+210,Southampton,E06000045,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{ACD6930A-B5F9-44EB-8FA2-8371AC5B34F8},61544.0619572362,49880646.3648927
+211,Southend-on-Sea,E06000033,Benzene annual mean Limit Value 2020,0.58,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AEE2F028-BB9E-4CC4-8B6E-82F4FFD7522C},57783.269057816,41673935.6083753
+212,St Albans,E07000240,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B8BCCBE4-3C1E-441A-AF0C-2CF0CE5B9281},72946.3415852749,161205874.059609
+213,St. Helens,E08000013,Benzene annual mean Limit Value 2020,0.47,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AB24FBD3-319C-4FF1-847B-79B5A844ACEF},76387.0358430372,136358792.987379
+214,Stafford,E07000197,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{31012B6D-DE7D-40D4-BDD6-F9D5422B8383},159078.806627588,598172233.422377
+215,Staffordshire Moorlands,E07000198,Benzene annual mean Limit Value 2020,0.36,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{69F1560E-4DA1-4CFD-9E32-6C543262B83A},152448.185289633,575849820.802262
+216,Stevenage,E07000243,Benzene annual mean Limit Value 2020,0.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DCCF093E-BF93-4D02-A178-61BE50E9A76C},28588.2613575799,25969241.2793979
+217,Stockport,E08000007,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1295F12B-DFBA-4957-B9A6-DA6036331DC9},73638.7202371356,126040311.08168
+218,Stockton-on-Tees,E06000004,Benzene annual mean Limit Value 2020,0.42,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8B84AA10-B10E-470C-BC2F-6AFB1910A7F9},123408.985927677,204932953.781252
+219,Stoke-on-Trent,E06000021,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6ED5FD5B-63A1-440B-8D04-20AF1A139483},63974.629003771,93448483.3505366
+220,Stratford-on-Avon,E07000221,Benzene annual mean Limit Value 2020,0.7,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{14245504-3DEA-411A-ACC9-C775AFFF6B1C},261384.087125663,977869054.895253
+221,Stroud,E07000082,Benzene annual mean Limit Value 2020,0.34,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D04062D5-C181-44AA-B422-F38EFE5993CC},172782.192867585,460541975.21288
+222,Sunderland,E08000024,Benzene annual mean Limit Value 2020,0.36,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{89FDB3C6-1F94-4CCF-B423-D834625EDC9A},99737.4118043337,137441171.443858
+223,Surrey Heath,E07000214,Benzene annual mean Limit Value 2020,0.59,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{C860DAA4-B087-41E6-936F-DFF3F0057CAA},53559.7241713486,95092959.1736068
+224,Swale,E07000113,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{023C43FA-C892-4B06-90CE-9D2091C8B67E},347838.12354343,373436671.264401
+225,Swindon,E06000030,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{752421A6-2F2D-4899-9FAA-D3B5B27DE2B4},103014.940246214,230093374.741894
+226,Tameside,E08000008,Benzene annual mean Limit Value 2020,0.56,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0D361BBA-5B04-455A-8E76-F9F891C3A068},55989.0752712242,103154292.392485
+227,Tamworth,E07000199,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{35ADD025-B0D8-4769-9938-3358AEA9EED4},30730.0625358975,30850716.1908956
+228,Tandridge,E07000215,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A4C8A678-4712-4B12-98F8-9D83E70A94E1},83136.9028111191,248194569.367405
+229,Teignbridge,E07000045,Benzene annual mean Limit Value 2020,0.31,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BBF3A764-522E-4A42-B0B9-6BBCCE132BBD},191464.02785335,673770656.969213
+230,Telford and Wrekin,E06000020,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{ACE180F3-9790-4722-82AF-EA211BA670CB},118780.033274165,290313545.188821
+231,Tendring,E07000076,Benzene annual mean Limit Value 2020,0.53,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2A300BAE-09C5-429C-84CD-AF35A4A74DEC},442501.365026217,336295380.413206
+232,Test Valley,E07000093,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0DC34293-436F-4A43-9455-16D7933F0AE5},190816.352551876,627595190.71841
+233,Tewkesbury,E07000083,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{4A0F923C-E986-4EB5-8138-05B55DB7F584},204835.933707647,414414321.091512
+234,Thanet,E07000114,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{76A2B5DF-3DE6-424C-AD9C-2E7160C0D1A3},65350.7692378741,103609165.852632
+235,Three Rivers,E07000102,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A35F6B87-0AF6-4AC4-9C29-A9E2C2F5749B},74112.6323982508,88824172.1167548
+236,Thurrock,E06000034,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5DA2C467-FDFF-470B-9486-D5B7DD99B88B},115992.466452315,163837048.646129
+237,Tonbridge and Malling,E07000115,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1FBBDFD1-A3A3-4A90-B907-1D4D5CF4BE2F},133211.401830683,240114268.776842
+238,Torbay,E06000027,Benzene annual mean Limit Value 2020,0.28,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{20451037-4A4A-48FD-9FD1-9D201D6F8131},77911.4991108206,62886695.8942917
+239,Torridge,E07000046,Benzene annual mean Limit Value 2020,0.25,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{52E3F1DE-1325-4945-88EB-3C311A680B3B},315627.907057768,985293648.562924
+240,Trafford,E08000009,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8A20CED9-F925-4AD4-84B6-A9CEA87F8254},60712.7777675827,106044771.783645
+241,Tunbridge Wells,E07000116,Benzene annual mean Limit Value 2020,0.51,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{326E0412-FCC3-4440-A812-3F4E1E6D3971},150590.455017113,331328854.676823
+242,Uttlesford,E07000077,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{517D669C-C397-487F-BC2F-CC91AA80173E},166507.865260072,641182922.735804
+243,Vale of White Horse,E07000180,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{31CF5706-6332-4055-AC31-5F7F5703A379},175977.202778777,578660264.122094
+244,Wakefield,E08000036,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{99C7F08F-720B-49B7-A732-566495C66410},109447.356258915,338619733.164991
+245,Walsall,E08000030,Benzene annual mean Limit Value 2020,1.1,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{7212FCEB-04C9-46EF-A60D-8E67EF8A606B},59401.1794285966,103973538.346297
+246,Warrington,E06000007,Benzene annual mean Limit Value 2020,0.43,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{79125C89-E36E-4708-8DE6-A76142CAF1FC},114690.861715145,180627983.826568
+247,Warwick,E07000222,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AA7F7ED3-8875-4A48-B35E-DA4C6029DD95},116717.479258951,282882321.016032
+248,Watford,E07000103,Benzene annual mean Limit Value 2020,0.57,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9D8B4AE7-24DF-4AA2-9D25-C269535EC6D8},26392.3637917563,21430351.4040458
+249,Waverley,E07000216,Benzene annual mean Limit Value 2020,0.45,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{59AB2529-61EC-4D1D-AF63-E0B173E7FFBC},125436.056342797,345170236.682502
+250,Wealden,E07000065,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CBB561C2-819A-46CE-8556-65227A113F4E},225878.103797448,834948417.645897
+251,Wellingborough,E07000156,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B0EFFD3F-805D-482D-940B-539092CEEAC3},69758.419463359,163036490.492432
+252,Welwyn Hatfield,E07000241,Benzene annual mean Limit Value 2020,0.72,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{93CC82C7-639E-49EC-B108-426949D7FDA3},82392.0596450988,129536895.734239
+253,West Berkshire,E06000037,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F9DD1F79-FC35-4982-B7CA-163667A89F30},166802.031523965,704169402.351946
+254,West Devon,E07000047,Benzene annual mean Limit Value 2020,0.21,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{4AC75625-49CA-4940-9DAB-2A02924A0ACB},254068.377875136,1161107060.90436
+255,West Lancashire,E07000127,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E65D695E-847D-42F5-806A-5AEFB309C696},227324.791265288,346632973.13886
+256,West Lindsey,E07000142,Benzene annual mean Limit Value 2020,0.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B8E275E9-8298-43A8-8F79-352F7749D305},249630.856354362,1155731959.77556
+257,West Oxfordshire,E07000181,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{587D3EFC-24F0-4562-A7A3-A96BFD4C6D56},160247.897555111,714422027.138745
+258,Wigan,E08000010,Benzene annual mean Limit Value 2020,0.44,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{4B942781-C406-4186-A11A-B8F62B1E3C76},88690.4959013719,188171013.039743
+259,Winchester,E07000094,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{53234086-A50B-422A-9749-6AAACBC28BE1},172158.212213579,660970090.904626
+260,Windsor and Maidenhead,E06000040,Benzene annual mean Limit Value 2020,0.62,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0D8B5886-4EE3-410E-B387-EFAD5404DEFA},114829.420890264,198427175.066602
+261,Wirral,E08000015,Benzene annual mean Limit Value 2020,0.48,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BC1A8EF5-51EF-41D2-B840-B98E64D0E0C9},133924.463118424,160922014.258454
+262,Woking,E07000217,Benzene annual mean Limit Value 2020,0.54,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3D4D035E-CA6D-41FB-9A30-870E20498A9E},54781.5015969547,63603603.8397676
+263,Wokingham,E06000041,Benzene annual mean Limit Value 2020,0.57,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8A1CFE41-928D-41C6-B3C6-A29A36B487B4},86865.9015855573,178965481.003988
+264,Wolverhampton,E08000031,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8B2C9BED-CBA3-4AE4-B119-DDF51F74F32A},56054.9143822834,69436711.8259897
+265,Worcester,E07000237,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{58B03AB5-0967-4E3A-9AD3-AB45F03FBD55},31263.0663437807,33278124.8695442
+266,Worthing,E07000229,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{C0AB4222-0728-44B9-A468-E2DD43EF739E},29462.139044102,32521007.7957513
+267,Wychavon,E07000238,Benzene annual mean Limit Value 2020,0.28,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{53573F6B-6346-49FD-B868-E893653AF45A},219520.151476975,663541973.671783
+268,Wycombe,E07000007,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{07D2682C-7D22-4959-8C34-292EEB54B217},113202.002504236,324572080.488638
+269,Wyre,E07000128,Benzene annual mean Limit Value 2020,0.27,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{50E9CBD2-D126-484B-B322-76E5683B1750},212730.866956258,282164815.237443
+270,Wyre Forest,E07000239,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{07C5F70D-3DB9-40E5-9DFC-D89C243A75F3},100867.383930268,195403719.201685
+271,Barking and Dagenham,E09000002,Benzene annual mean Limit Value 2020,0.7,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{357FF61C-BA8F-426D-9258-C7A64FF2C8E6},40848.9262109737,36099579.3537102
+272,Barnet,E09000003,Benzene annual mean Limit Value 2020,0.71,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9EE6BAE8-075F-49D1-A912-7B422FAD73F3},50818.5640207425,86748323.8350299
+273,Bexley,E09000004,Benzene annual mean Limit Value 2020,0.7,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{73F586EF-8F4D-41F0-8AAE-77658ADC6B06},47929.7812543916,60569006.5897128
+274,Brent,E09000005,Benzene annual mean Limit Value 2020,0.69,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1210AE0B-06E4-42FC-BD18-F93BBB679AC6},38334.1080962157,43232647.4133637
+275,Bromley,E09000006,Benzene annual mean Limit Value 2020,0.65,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{12C11A1A-8F5B-4EA6-A17A-F9F16AA6546E},76164.2425683605,150134859.413452
+276,Camden,E09000007,Benzene annual mean Limit Value 2020,0.88,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{EC2F14FB-0A14-4F7F-ADBB-6B4E811A5A72},26150.8183816197,21789299.882839
+277,City of London,E09000001,Benzene annual mean Limit Value 2020,1.1,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{68921619-49E7-484B-BB03-7A4AD55EC0C9},9365.48215920575,2892405.36543164
+278,Croydon,E09000008,Benzene annual mean Limit Value 2020,0.74,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{66CCDFFB-54CB-46A8-825A-FE80CC0D60C2},58703.9243700039,86494438.8832782
+279,Ealing,E09000009,Benzene annual mean Limit Value 2020,0.75,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{32C054E9-A2B3-461B-B988-C8C91A1A4B07},47439.0263083463,55544347.2179586
+280,Enfield,E09000010,Benzene annual mean Limit Value 2020,0.75,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{30A6F8AD-3C66-471F-9025-0D862946C8D8},41064.6492881675,82200189.5489859
+281,Greenwich,E09000011,Benzene annual mean Limit Value 2020,0.76,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3C0B2DC3-0CAA-4B40-A365-ED8BA2896C70},47659.9055393207,47312188.6114747
+282,Hackney,E09000012,Benzene annual mean Limit Value 2020,0.85,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{56C97A14-5863-4DA6-AC16-EFA838F26497},25382.815561641,19049030.352776
+283,Hammersmith and Fulham,E09000013,Benzene annual mean Limit Value 2020,0.93,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{7893C680-F3F1-4E41-8D3A-B16BCD7A4647},23974.244573909,16403659.3246004
+284,Haringey,E09000014,Benzene annual mean Limit Value 2020,0.8,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{125802A6-0444-4568-9DE9-9043E369ED04},29025.179094176,29598385.1571467
+285,Harrow,E09000015,Benzene annual mean Limit Value 2020,0.6,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{478E6D83-3DAF-44C1-92AD-18225EF1FBB1},33735.4607001492,50463306.788368
+286,Havering,E09000016,Benzene annual mean Limit Value 2020,0.67,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2F1D3B0D-63CB-4606-993D-D59B9B3A0E2C},63646.6874627787,112341114.400327
+287,Hillingdon,E09000017,Benzene annual mean Limit Value 2020,0.65,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1F72BD99-95AA-4EAA-A23D-812479EF9E52},63887.0147407308,115700538.569064
+288,Hounslow,E09000018,Benzene annual mean Limit Value 2020,0.7,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{54753FAB-80FC-4039-BE2C-36C3C7FD3528},64476.4213511999,55970483.6746531
+289,Islington,E09000019,Benzene annual mean Limit Value 2020,0.8,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9FBD9E88-4E39-414B-BCBD-70466115C8DB},20727.8573703064,14856651.4165616
+290,Kensington and Chelsea,E09000020,Benzene annual mean Limit Value 2020,0.88,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5E1F025D-913C-4690-802E-8D52BBDC62CC},20976.5665887925,12125376.8076287
+291,Kingston upon Thames,E09000021,Benzene annual mean Limit Value 2020,0.73,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{823BC3B3-A8A2-4E13-8D22-4EF8FC463304},37553.1452619196,37261179.919015
+292,Lambeth,E09000022,Benzene annual mean Limit Value 2020,0.82,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0B4796C0-513A-416D-B98C-79098D47840A},34006.7011725025,26819774.5739752
+293,Lewisham,E09000023,Benzene annual mean Limit Value 2020,0.84,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6FEAE16C-141D-4C1B-A264-FBD6FBEFB11D},41248.7993236033,35148181.048931
+294,Merton,E09000024,Benzene annual mean Limit Value 2020,0.72,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B071DE3F-8C19-4A9C-B9CA-2A512329A617},32349.0601365595,37624739.9363362
+295,Newham,E09000025,Benzene annual mean Limit Value 2020,0.76,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F717E570-05B5-41C3-9F38-0B3C1B0CB770},35770.1847515402,36196428.885617
+296,Redbridge,E09000026,Benzene annual mean Limit Value 2020,0.75,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{EC5B0F64-4B23-4B2C-A80C-C403620872D2},50404.2072763523,56405616.6245934
+297,Richmond upon Thames,E09000027,Benzene annual mean Limit Value 2020,0.7,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F9C169F9-36F2-4985-83F5-6F2F97DC9A0E},68791.0566237213,57393469.303218
+298,Southwark,E09000028,Benzene annual mean Limit Value 2020,0.84,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{410D7C84-4423-4373-B251-3124CBD7F9CC},34620.9208235148,28867282.3408357
+299,Sutton,E09000029,Benzene annual mean Limit Value 2020,0.65,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0E329D98-588F-4F7D-AFBE-ED4A37AB3EAB},39844.4233283888,43846970.9650526
+300,Tower Hamlets,E09000030,Benzene annual mean Limit Value 2020,0.91,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5ED26AFF-125E-4182-9121-F236A0B0204E},28735.0933719065,19768375.6097007
+301,Waltham Forest,E09000031,Benzene annual mean Limit Value 2020,0.79,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A8D38710-50B8-44CF-A660-D1F6821F7DED},33339.36535061,38807964.3313191
+302,Wandsworth,E09000032,Benzene annual mean Limit Value 2020,0.8,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{FC151012-B754-44C5-8CF1-FA366B8CC7A2},38799.5354739396,34256866.7963965
+303,Westminster,E09000033,Benzene annual mean Limit Value 2020,0.9,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{77BCFE96-E987-4EE2-924F-33DA21925A12},27430.6234387101,21477156.536441
+304,Aberdeen City,S12000033,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D7BA35E3-3E30-458B-9FB4-1109CEACA6AB},123556.580507014,185610474.243169
+305,Aberdeenshire,S12000034,Benzene annual mean Limit Value 2020,0.21,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A0B376E8-DEDD-442D-8A75-59D0A7BF50AC},799709.748964081,6317887803.78567
+306,Angus,S12000041,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{4F8E44B4-5768-43E6-AC69-ECEE06C4622F},321368.916299985,2185122862.69083
+307,Argyll and Bute,S12000035,Benzene annual mean Limit Value 2020,0.14,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F7CA6C4F-4590-42A0-BD9D-6B44FCB80F82},3803209.36951455,7006318125.25739
+308,Clackmannanshire,S12000005,Benzene annual mean Limit Value 2020,0.23,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B6C38DCB-23B1-4525-865A-1D158FBC084B},94185.4153006457,158972120.172314
+309,Dumfries and Galloway,S12000006,Benzene annual mean Limit Value 2020,0.18,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{3BA840CE-999C-4D10-90EB-6B97FB4A9136},1204443.71146869,6436441092.00878
+310,Dundee City,S12000042,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{AC044611-244F-4859-AD16-AD83C159ED80},46805.9469379225,59830971.359946
+311,East Ayrshire,S12000008,Benzene annual mean Limit Value 2020,0.18,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2CD90E6E-0D4E-4939-B83E-6D7FFFCA854A},340964.549131594,1270342031.26971
+312,East Dunbartonshire,S12000045,Benzene annual mean Limit Value 2020,0.24,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6F722CFB-3794-4F46-8E0E-0BAE54EAD6B8},99603.0545770938,174489016.753697
+313,East Lothian,S12000010,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{FDC0139C-9209-49EF-B291-FE4473205F4A},200290.247298163,679179836.309118
+314,East Renfrewshire,S12000011,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{52D2FCFA-12B3-467E-BF95-BAE4B3C5C182},93882.5140036291,174249494.312654
+315,City of Edinburgh,S12000036,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CDEDE7DC-91A7-4325-B172-2AC1DDFADD28},108121.329976751,263351803.909778
+316,Falkirk,S12000014,Benzene annual mean Limit Value 2020,1.2,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{98461E6D-220B-4228-9AE7-C106A92E407C},145018.724277237,297365613.214426
+317,Fife,S12000047,Benzene annual mean Limit Value 2020,0.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{EF02E822-85AD-45D8-94C2-250BD7FB0DCB},354737.733384572,1325381099.28936
+318,Glasgow City,S12000049,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{EE1D67A1-3BC6-4C9B-A229-A3ED12A5F4B7},135584.074837304,174621296.391104
+319,Highland,S12000017,Benzene annual mean Limit Value 2020,0.18,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0814BA52-66AC-4286-A9B5-12ECE207048A},5221672.91689105,26159623364.809
+320,Inverclyde,S12000018,Benzene annual mean Limit Value 2020,0.17,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{EC7A0629-9FC4-43B1-9F10-5D0A96BBF9B5},79292.3993194081,161948858.627358
+321,Midlothian,S12000019,Benzene annual mean Limit Value 2020,0.2,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{4AD10D79-52E3-4692-9597-270A8AE319A6},126471.062777019,355271573.021186
+322,Moray,S12000020,Benzene annual mean Limit Value 2020,0.59,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CD1AA71A-6118-4829-8FB2-3DD831C096A0},459685.936136255,2237218030.80783
+323,North Ayrshire,S12000021,Benzene annual mean Limit Value 2020,0.19,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{68C2822F-410F-49BC-92F0-7EC95E735DDD},349479.371611209,885276171.260992
+324,North Lanarkshire,S12000050,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8FC86475-0108-4831-B77B-88F764ABFF78},163984.724709276,472309075.060379
+325,Orkney Islands,S12000023,Benzene annual mean Limit Value 2020,0.11,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{B2B6A6C8-16E8-425A-9B24-879ED1561012},1203626.44906208,1015068427.10954
+326,Perth and Kinross,S12000048,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BB2CC761-44F8-4FCE-AFF8-A3CD14D09EA8},619318.000640052,5383759647.16091
+327,Renfrewshire,S12000038,Benzene annual mean Limit Value 2020,0.25,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6BD24365-4F63-447F-AF66-0696EF15C54C},131636.237991738,261487693.210925
+328,Scottish Borders,S12000026,Benzene annual mean Limit Value 2020,0.29,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{18DB5995-62DB-45FC-AFB5-4038FE70E979},514891.622612693,4739182406.06294
+329,Shetland Islands,S12000027,Benzene annual mean Limit Value 2020,0.12,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{775FE257-A1B4-4646-BB62-9D7DC7A358A9},2322377.79167611,1468495456.02047
+330,South Ayrshire,S12000028,Benzene annual mean Limit Value 2020,0.18,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BEE270BB-5F30-4F0F-876C-281D79EE3B7B},334722.293696274,1224369285.20356
+331,South Lanarkshire,S12000029,Benzene annual mean Limit Value 2020,0.31,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{06BFDBF0-D49E-4794-B2EF-EDC5DA4F6529},284527.34016518,1773897195.5193
+332,Stirling,S12000030,Benzene annual mean Limit Value 2020,0.19,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{16D962B6-8CA9-4A69-8F3F-0D9AC42C7AC0},341963.178281952,2253344395.5433
+333,West Dunbartonshire,S12000039,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{758D9CBE-D05A-433B-8742-1C597A01627B},103697.458333469,177320345.918354
+334,Na h-Eileanan Siar,S12000013,Benzene annual mean Limit Value 2020,0.13,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{1DA02FEB-B0F7-41A0-A5D1-E6FBF1F7FDF1},3874620.49577166,3096880085.89603
+335,West Lothian,S12000040,Benzene annual mean Limit Value 2020,0.27,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A3EDEC15-813F-4FE8-8288-366FE64301B0},134896.644326242,428772096.65787
+336,Blaenau Gwent,W06000019,Benzene annual mean Limit Value 2020,0.26,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{C7F94D21-1F43-46A0-B704-83A975DF3EAB},65601.7710712483,108728050.001396
+337,Bridgend,W06000013,Benzene annual mean Limit Value 2020,0.32,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{EE5A640E-C98B-4A18-85CC-8958C9CBBEB0},93192.1976202919,250785304.544487
+338,Caerphilly,W06000018,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{56AF03AC-F49D-4E8D-9CAA-0E903706347E},116205.751406757,277387812.478975
+339,Cardiff,W06000015,Benzene annual mean Limit Value 2020,1.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BB351FB7-B7D3-4EAB-A310-F373B9FD4B79},79778.2910840568,142287154.44123
+340,Carmarthenshire,W06000010,Benzene annual mean Limit Value 2020,1.2,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9E94A33F-5F2C-41D1-A80B-A740028CA679},591603.878496041,2371103920.5118
+341,Ceredigion,W06000008,Benzene annual mean Limit Value 2020,0.18,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{2C32C2A4-460F-4E18-8EA8-70B61144AE96},380232.841254069,1788908741.41065
+342,Conwy,W06000003,Benzene annual mean Limit Value 2020,0.2,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{C2DCFC31-56F6-4316-B9ED-4EE64F8BE586},283047.440462211,1130197330.18461
+343,Denbighshire,W06000004,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{36D30E91-71F0-4A53-95B5-E95BFE14D854},228673.537419035,838569401.650381
+344,Flintshire,W06000005,Benzene annual mean Limit Value 2020,1.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{707775D8-4E96-4BD1-AB67-6F6162CF4EFF},239102.416881164,439723939.165062
+345,Gwynedd,W06000002,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5F4B05A7-4A0F-4BCC-BFFA-6630DFF21775},632724.571424226,2547891706.6665
+346,Isle of Anglesey,W06000001,Benzene annual mean Limit Value 2020,0.18,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D58D062E-11E5-4EB8-9756-2466569CABDD},377822.31736502,714827609.556943
+347,Merthyr Tydfil,W06000024,Benzene annual mean Limit Value 2020,0.26,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{78B097AC-0CF8-48EA-BBCA-A37CDDE05373},66696.9295920567,111957018.608226
+348,Monmouthshire,W06000021,Benzene annual mean Limit Value 2020,0.29,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{189B75B1-EF1C-450A-970E-03F3BF8B3A60},224184.496319547,850264584.692628
+349,Neath Port Talbot,W06000012,Benzene annual mean Limit Value 2020,3,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BFE787BE-BB40-48BD-A71D-F997F4641E98},182189.891977866,442272614.954999
+350,Newport,W06000022,Benzene annual mean Limit Value 2020,1.5,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{31BBB530-8873-4747-8ADA-1958E0563C44},153723.498020193,190372842.060922
+351,Pembrokeshire,W06000009,Benzene annual mean Limit Value 2020,0.31,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{D68B37D3-550B-487E-BEFD-C63DB6523AE6},743272.933168956,1618344600.97342
+352,Powys,W06000023,Benzene annual mean Limit Value 2020,0.22,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{68FE01B5-CD31-4BA7-B483-18D59EF7E8D9},610145.541416205,5195312116.78482
+353,Rhondda Cynon Taf,W06000016,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{77D59723-120D-42B2-8798-01B6AB6AC665},130240.675463069,424150424.443562
+354,Swansea,W06000011,Benzene annual mean Limit Value 2020,0.35,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{68A77B36-1605-49A6-9719-B49296FD8ED0},270783.370554105,377596417.00693
+355,Torfaen,W06000020,Benzene annual mean Limit Value 2020,0.35,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{164655D4-5B99-4B09-AA39-C8BB8E589903},82544.7759674217,126239927.800792
+356,Vale of Glamorgan,W06000014,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{5E59827F-2E43-4D4D-BD38-1084875CE856},108377.993669205,331257510.067063
+357,Wrexham,W06000006,Benzene annual mean Limit Value 2020,0.39,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0B3AD21A-9DB0-429A-BE93-7BA11C906E05},190040.818038468,503773489.327213
+358,Isles of Scilly,E06000053,Benzene annual mean Limit Value 2020,0.15,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{DF5DF834-8977-4501-958B-3C249F18E459},116312.050817675,16337569.4228754
+359,County Durham,E06000047,Benzene annual mean Limit Value 2020,0.3,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{30A62EDC-1AB6-43CB-A5F9-3113CADCED21},314911.224386944,2231459817.94596
+360,Northumberland,E06000057,Benzene annual mean Limit Value 2020,0.25,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{BB618F26-9864-4810-BA96-99327B0F4D69},601230.810060573,5030751708.1467
+361,Shropshire,E06000051,Benzene annual mean Limit Value 2020,0.3,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{9FA7B19E-B315-49C4-99C9-1768EA0FC250},580650.678546698,3197275381.12607
+362,Wiltshire,E06000054,Benzene annual mean Limit Value 2020,0.85,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{71F43D58-17E6-4DEF-83E7-9603A1BEEE3B},402006.968203754,3255338123.71718
+363,Central Bedfordshire,E06000056,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CEB41266-76F6-48D4-94E7-FC9EAAFFC744},232692.717694514,715665302.20009
+364,Cheshire East,E06000049,Benzene annual mean Limit Value 2020,0.41,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{0FDBED7C-9B68-4C63-8193-4F1DCBF32A7D},301225.377394864,1166357379.5532
+365,Cheshire West and Chester,E06000050,Benzene annual mean Limit Value 2020,0.59,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{12B3F666-39FC-4AE4-BA10-8954023CF8B8},335615.350142603,920017989.862046
+366,Cornwall,E06000052,Benzene annual mean Limit Value 2020,0.64,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{89155EAB-C3CA-4BA5-A57F-DC6AD3CC42AC},1241482.93652261,3548934061.31534
+367,Antrim and Newtownabbey,N09000001,Benzene annual mean Limit Value 2020,0.81,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{E6C74B0D-538B-46D4-8B18-7F93F63F6582},165145.087874744,728186553.509529
+368,Armagh City Banbridge and Craigavon,N09000002,Benzene annual mean Limit Value 2020,0.33,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{71BC0EBD-32DE-4A6E-A6F4-D4833D4CEF23},243056.447070263,1437068553.12479
+369,Belfast,N09000003,Benzene annual mean Limit Value 2020,0.55,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F1BEDF17-7B93-46B1-B54A-B76617DF518F},65908.653826069,137716630.472662
+370,Causeway Coast and Glens,N09000004,Benzene annual mean Limit Value 2020,0.27,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{A41E24E6-68DB-4C8C-BCF3-C9EB230173E3},381750.417386068,1985534511.18953
+371,Derry City and Strabane,N09000005,Benzene annual mean Limit Value 2020,0.63,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{CA1EE688-629F-4433-9135-42C799E06B76},271488.956324295,1251241562.86132
+372,Fermanagh and Omagh,N09000006,Benzene annual mean Limit Value 2020,0.46,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{25DE2439-5588-467A-A406-669A59C2015E},426624.234971301,3012114876.90125
+373,Lisburn and Castlereagh,N09000007,Benzene annual mean Limit Value 2020,0.86,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{089FF227-44BE-4EAA-99C9-104CCF273BD4},167383.523889689,510438068.178239
+374,Mid and East Antrim,N09000008,Benzene annual mean Limit Value 2020,0.52,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{857CDCF8-A55F-437F-9154-65734EB4AB60},234863.3303294,1061355466.99125
+375,Mid Ulster,N09000009,Benzene annual mean Limit Value 2020,0.49,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{017B7178-49BA-4EA6-A22C-5D8F35FDDD7C},318433.308425238,1957293802.62133
+376,Newry Mourne and Down,N09000010,Benzene annual mean Limit Value 2020,0.28,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{99D27173-5EF5-4F53-94F2-CA112E4D9556},380093.278004495,1682340589.11656
+377,Ards and North Down,N09000011,Benzene annual mean Limit Value 2020,0.37,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{40A3DE17-13A4-4284-9951-18A7728DB9E5},204689.104478935,566472954.625102
+378,Bournemouth Christchurch and Poole,E06000058,Benzene annual mean Limit Value 2020,0.53,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{6AD204F7-F217-4D20-9F95-82E9147C6731},169172.238128128,162070065.513307
+379,Dorset,E06000059,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{8C42BF25-2EFE-4FC9-B216-3DBE76E23CF8},594358.349992159,2490956587.49922
+380,East Suffolk,E07000244,Benzene annual mean Limit Value 2020,1.4,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{7B1582E1-0E17-4566-933A-6FD9F3905E3A},584787.509022933,1260989609.73078
+381,West Suffolk,E07000245,Benzene annual mean Limit Value 2020,0.43,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{27DC7404-47D6-48BD-AE0E-0DE5FA014227},274547.779729504,1034675784.57658
+382,Somerset West and Taunton,E07000246,Benzene annual mean Limit Value 2020,0.38,μg m⁻³,Compliant,Limit Value: 5 μg m⁻³,{F66F3F8D-8A2B-4EFF-8389-5FC7526B8AE6},288674.538792219,1189084337.09573
