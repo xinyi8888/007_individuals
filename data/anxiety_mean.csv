@@ -109,11 +109,11 @@ E07000129,Blaby,Local Authority,3.33
 E07000130,Charnwood,Local Authority,2.72
 E07000131,Harborough,Local Authority,3.25
 E07000132,Hinckley and Bosworth,Local Authority,3.45
-E07000133,Melton,Local Authority,x
+E07000133,Melton,Local Authority,0
 E07000134,North West Leicestershire,Local Authority,3.46
-E07000135,Oadby and Wigston,Local Authority,x
+E07000135,Oadby and Wigston,Local Authority,0
 E10000019,Lincolnshire ,County,3.34
-E07000136,Boston,Local Authority,x
+E07000136,Boston,Local Authority,0
 E07000137,East Lindsey,Local Authority,3.38
 E07000138,Lincoln,Local Authority,3.82
 E07000139,North Kesteven,Local Authority,3.24
@@ -121,7 +121,7 @@ E07000140,South Holland,Local Authority,3.69
 E07000141,South Kesteven,Local Authority,2.90
 E07000142,West Lindsey,Local Authority,3.25
 E10000021,Northamptonshire ,County,2.96
-E07000150,Corby,Local Authority,x
+E07000150,Corby,Local Authority,0
 E07000151,Daventry,Local Authority,2.99
 E07000152,East Northamptonshire,Local Authority,2.96
 E07000153,Kettering,Local Authority,2.97
@@ -194,7 +194,7 @@ E07000070,Chelmsford,Local Authority,3.05
 E07000071,Colchester,Local Authority,3.17
 E07000072,Epping Forest,Local Authority,3.39
 E07000073,Harlow,Local Authority,3.74
-E07000074,Maldon,Local Authority,x
+E07000074,Maldon,Local Authority,0
 E07000075,Rochford,Local Authority,3.50
 E07000076,Tendring,Local Authority,3.76
 E07000077,Uttlesford,Local Authority,2.53
@@ -226,7 +226,7 @@ E07000244,East Suffolk,Local Authority,3.15
 ,,,
 E12000007,LONDON,Region,3.38
 E09000007,Camden,Local Authority,3.64
-E09000001,City of London,Local Authority,x
+E09000001,City of London,Local Authority,0
 E09000012,Hackney ,Local Authority,3.83
 E09000013,Hammersmith and Fulham ,Local Authority,3.27
 E09000014,Haringey,Local Authority,3.64
@@ -275,7 +275,7 @@ E06000041,Wokingham,Local Authority,3.59
 E10000002,Buckinghamshire,County,3.25
 E07000004,Aylesbury Vale,Local Authority,3.36
 E07000005,Chiltern,Local Authority,3.61
-E07000006,South Bucks,Local Authority,x
+E07000006,South Bucks,Local Authority,0
 E07000007,Wycombe,Local Authority,3.06
 E10000011,East Sussex,County,3.44
 E07000061,Eastbourne,Local Authority,3.41
@@ -355,7 +355,7 @@ E07000043,North Devon,Local Authority,3.14
 E07000044,South Hams,Local Authority,3.33
 E07000045,Teignbridge,Local Authority,2.76
 E07000046,Torridge,Local Authority,2.87
-E07000047,West Devon,Local Authority,x
+E07000047,West Devon,Local Authority,0
 E10000013,Gloucestershire,County,3.21
 E07000078,Cheltenham,Local Authority,3.38
 E07000079,Cotswold,Local Authority,2.97
